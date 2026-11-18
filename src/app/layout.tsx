@@ -23,6 +23,10 @@ export const metadata: Metadata = {
   },
   description:
     "Natural hairline design, FUE and FUT, and a short menu of skin treatments at 24-P, Gulberg 2, Lahore.",
+  icons: {
+    icon: [{ url: "/favicon.ico" }, { url: "/media/logo-seal.png", type: "image/png" }],
+    apple: "/media/logo-seal.png",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
