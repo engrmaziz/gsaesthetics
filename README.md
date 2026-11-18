@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# GS Aesthetic
 
-## Getting Started
+Marketing site and content desk for GS Aesthetic, the Gulberg 2 clinic at [gsaesthetic.online](https://gsaesthetic.online). Public pages cover the hairline method, every service, the studio, the journal, the visit, and the legal pages. Staff edit the copy from `/admin`. There is no database: the site reads `src/data/content.json`, and publishing on Vercel commits that file back to GitHub so the next build picks it up.
 
-First, run the development server:
+## Stack
+
+Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, `next-themes`.
+
+## Run it
 
 ```bash
+npm install
+cp .env.example .env.local
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The dev server is [http://localhost:3000](http://localhost:3000). This project is usually started on port 3010:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npx next dev -p 3010
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Set `ADMIN_PASSWORD` in `.env.local` before opening `/admin`. Production has no default password.
 
-## Learn More
+## Environment
 
-To learn more about Next.js, take a look at the following resources:
+| Variable | Where it is used |
+| --- | --- |
+| `ADMIN_PASSWORD` | Signs the `hmd_admin` session cookie. Required for `/admin`. |
+| `GITHUB_TOKEN` | Lets the desk commit `src/data/content.json` when the app is running on Vercel. A fine-grained token with contents write on this repo is enough. |
+| `GITHUB_REPO_OWNER` | `engrmaziz` |
+| `GITHUB_REPO_NAME` | `gsaesthetics` |
+| `GITHUB_BRANCH` | Branch the desk writes to. Defaults to `main`. |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Locally, Publish writes `src/data/content.json` on disk. On Vercel, Publish uses the GitHub contents API. Without the three GitHub variables, the desk reports that nothing was saved.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Do not commit `.env.local`.
 
-## Deploy on Vercel
+## Content
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+`src/data/content.json` is the source of truth. Types live in `src/lib/types.ts`. Pages read it through `src/lib/content.ts`.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The desk (`/admin`) edits practice details, the hero, the founder, the method, services, the gallery, the journal, notes, and visit details. Legal pages, categories, and adding or removing entries are still edited in the JSON file.
+
+## Routes
+
+| Path | What it is |
+| --- | --- |
+| `/` | Home |
+| `/method` | Hairline method |
+| `/about` | Practice |
+| `/services`, `/services/[slug]` | Menu and each treatment |
+| `/care/[category]` | A category of treatments |
+| `/results` | Studio |
+| `/journal`, `/journal/[slug]` | Journal |
+| `/contact` | Visit and WhatsApp |
+| `/legal/[slug]` | Privacy, terms, medical disclaimer, cookies |
+| `/admin` | Content desk |
+
+## Theme
+
+Light mode is warm paper, olive ink, and one clay accent. Dark mode swaps those tokens under `.dark` and follows the system until someone uses the sun/moon control in the navigation. The footer, ticker, and founder band stay on the fixed night colour so the dark logo lockup remains readable.
+
+## Deploy
+
+Import the repo on Vercel. Set the environment variables above. `next build` generates the public pages as static output from `content.json`. A publish from the desk commits that file, which triggers the next deployment.
+
+```bash
+npm run build
+```
