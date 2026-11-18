@@ -9,10 +9,10 @@ export async function middleware(request: Request) {
   if (url.pathname.startsWith("/admin") && url.pathname !== "/admin/login" && !ok) {
     return NextResponse.redirect(new URL("/admin/login", request.url));
   }
-  if (url.pathname.startsWith("/api/save-content") && !ok) {
+  if ((url.pathname.startsWith("/api/save-content") || url.pathname.startsWith("/api/upload")) && !ok) {
     return NextResponse.json({ success: false, error: "Sign in required" }, { status: 401 });
   }
   return NextResponse.next();
 }
 
-export const config = { matcher: ["/admin/:path*", "/api/save-content"] };
+export const config = { matcher: ["/admin/:path*", "/api/save-content", "/api/upload"] };

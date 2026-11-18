@@ -3,6 +3,7 @@
 import { FormEvent, useState } from "react";
 import { useRouter } from "next/navigation";
 import { Logo } from "@/components/Logo";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 export default function LoginPage() {
   const router = useRouter();
@@ -31,7 +32,10 @@ export default function LoginPage() {
 
   return (
     <main className="mx-auto flex min-h-[100dvh] max-w-md flex-col justify-center px-5">
-      <Logo />
+      <div className="flex items-start justify-between gap-4">
+        <Logo />
+        <ThemeToggle />
+      </div>
       <p className="mt-8 text-xs uppercase tracking-[0.22em] text-clay">Studio desk</p>
       <h1 className="mt-3 font-serif text-5xl tracking-tight">Sign in</h1>
       <form method="post" onSubmit={onSubmit} className="mt-8 space-y-4">

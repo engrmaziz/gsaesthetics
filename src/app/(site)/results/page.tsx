@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { getContent } from "@/lib/content";
 
 export const metadata: Metadata = { title: "The studio" };
@@ -12,7 +13,7 @@ export default function ResultsPage() {
         The room, the drawing, the edge.
       </h1>
       <p className="mt-6 max-w-[58ch] text-lg text-quiet">
-        These photographs are of the clinic and the work it is built around. Patient results stay in the consultation, where the light and the timeline can be explained.
+        These photographs are of the clinic and the work it is built around. Matched before-and-after frames are on the <Link href="/before-after" className="border-b border-clay">results page</Link>.
       </p>
       <div className="mt-12 grid gap-8 md:grid-cols-2">
         {gallery.map((item, index) => (

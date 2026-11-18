@@ -11,6 +11,7 @@ type Group = { label: string; href: string; services: { name: string; href: stri
 const links = [
   { href: "/method", label: "Method" },
   { href: "/results", label: "Studio" },
+  { href: "/before-after", label: "Results" },
   { href: "/journal", label: "Journal" },
   { href: "/about", label: "Practice" },
   { href: "/contact", label: "Visit" },

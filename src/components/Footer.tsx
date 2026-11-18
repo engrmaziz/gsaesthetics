@@ -25,6 +25,7 @@ export function Footer({ content }: { content: SiteContent }) {
           <Link href="/method">Hairline method</Link>
           <Link href="/journal">Journal</Link>
           <Link href="/results">Studio</Link>
+          <Link href="/before-after">Before and after</Link>
           <Link href="/contact">Visit</Link>
           <a href={whatsappHref()} target="_blank" rel="noreferrer">
             WhatsApp
