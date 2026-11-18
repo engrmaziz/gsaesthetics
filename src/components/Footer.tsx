@@ -6,11 +6,11 @@ import { Logo } from "./Logo";
 export function Footer({ content }: { content: SiteContent }) {
   const { practice } = content;
   return (
-    <footer className="border-t border-line bg-ink text-paper">
+    <footer className="border-t border-line bg-night text-ivory">
       <div className="mx-auto grid max-w-[1400px] gap-10 px-5 py-16 md:grid-cols-12 md:px-8">
         <div className="md:col-span-5">
-          <Logo tone="paper" />
-          <p className="mt-6 max-w-sm text-sm leading-relaxed text-paper/75">{practice.tagline}</p>
+          <Logo tone="dark" />
+          <p className="mt-6 max-w-sm text-sm leading-relaxed text-ivory/75">{practice.tagline}</p>
         </div>
         <div className="text-sm leading-7 md:col-span-3">
           <p>{practice.addressFull}</p>
@@ -34,9 +34,9 @@ export function Footer({ content }: { content: SiteContent }) {
           </a>
         </div>
       </div>
-      <div className="mx-auto flex max-w-[1400px] flex-wrap gap-x-5 gap-y-2 border-t border-white/15 px-5 py-4 text-xs text-paper/70 md:px-8">
+      <div className="mx-auto flex max-w-[1400px] flex-wrap gap-x-5 gap-y-2 border-t border-white/15 px-5 py-4 text-xs text-ivory/70 md:px-8">
         {content.legal.map((page) => (
-          <Link key={page.slug} href={`/legal/${page.slug}`} className="hover:text-paper">
+          <Link key={page.slug} href={`/legal/${page.slug}`} className="hover:text-ivory">
             {page.title}
           </Link>
         ))}

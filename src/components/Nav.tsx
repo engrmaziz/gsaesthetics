@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useState } from "react";
 import { List, X } from "@phosphor-icons/react";
 import { Logo } from "./Logo";
+import { ThemeToggle } from "./ThemeToggle";
 
 type Group = { label: string; href: string; services: { name: string; href: string }[] };
 
@@ -59,10 +60,14 @@ export function Nav({ whatsapp, groups }: { name: string; whatsapp: string; grou
           <a href={whatsapp} target="_blank" rel="noreferrer" className="bg-ink px-4 py-2.5 text-paper hover:bg-clay">
             Book
           </a>
+          <ThemeToggle />
         </nav>
-        <button type="button" className="cursor-pointer lg:hidden" aria-label={open ? "Close menu" : "Open menu"} onClick={() => setOpen((value) => !value)}>
-          {open ? <X size={24} /> : <List size={24} />}
-        </button>
+        <div className="flex items-center gap-3 lg:hidden">
+          <ThemeToggle />
+          <button type="button" className="cursor-pointer" aria-label={open ? "Close menu" : "Open menu"} onClick={() => setOpen((value) => !value)}>
+            {open ? <X size={24} /> : <List size={24} />}
+          </button>
+        </div>
       </div>
       {open ? (
         <nav className="max-h-[75dvh] overflow-auto border-t border-line px-5 py-5 lg:hidden">

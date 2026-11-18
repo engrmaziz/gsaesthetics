@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Figtree, Fraunces } from "next/font/google";
 import "./globals.css";
+import { ThemeProvider } from "@/components/ThemeProvider";
 import { getContent } from "@/lib/content";
 
 const figtree = Figtree({
@@ -46,13 +47,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   };
 
   return (
-    <html lang="en" className={`${figtree.variable} ${fraunces.variable}`}>
+    <html lang="en" className={`${figtree.variable} ${fraunces.variable}`} suppressHydrationWarning>
       <body className="antialiased">
+        <ThemeProvider>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
         <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:bg-paper focus:px-3 focus:py-2">
           Skip to content
         </a>
         {children}
+        </ThemeProvider>
       </body>
     </html>
   );

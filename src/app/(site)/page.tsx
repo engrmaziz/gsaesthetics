@@ -38,7 +38,7 @@ export default function HomePage() {
         </figure>
       </section>
 
-      <div className="overflow-hidden border-y border-ink bg-ink text-paper">
+      <div className="overflow-hidden border-y border-night bg-night text-ivory">
         <div className="ticker flex w-max items-center gap-8 py-4 text-base tracking-normal sm:gap-12 sm:text-lg">
           {rail.map((name, index) => (
             <span key={`${name}-${index}`} className="flex items-center gap-8 sm:gap-12">
@@ -59,18 +59,18 @@ export default function HomePage() {
         ))}
       </section>
 
-      <section className="bg-[#172117] text-paper">
+      <section className="bg-night text-ivory">
         <div className="mx-auto grid max-w-[1400px] gap-10 px-5 py-20 md:grid-cols-12 md:px-8">
           <div className="md:col-span-4">
             <p className="text-[0.72rem] uppercase tracking-[0.24em] text-[#d7b5a4]">Founder</p>
             <h2 className="mt-3 font-serif text-5xl tracking-tight">{founder.title}</h2>
-            <p className="mt-4 text-sm uppercase tracking-[0.16em] text-paper/60">{practice.role}</p>
+            <p className="mt-4 text-sm uppercase tracking-[0.16em] text-ivory/60">{practice.role}</p>
             <Link href="/about" className="mt-8 inline-block border-b border-[#d7b5a4] pb-1 text-sm">
               The practice
             </Link>
           </div>
           <img src={founder.portrait} alt={founder.portraitAlt} className="aspect-[3/4] w-full object-cover md:col-span-4" />
-          <div className="flex flex-col justify-end gap-5 text-lg leading-relaxed text-paper/80 md:col-span-4">
+          <div className="flex flex-col justify-end gap-5 text-lg leading-relaxed text-ivory/80 md:col-span-4">
             {founder.paragraphs.slice(0, 2).map((paragraph) => (
               <p key={paragraph.slice(0, 20)}>{paragraph}</p>
             ))}
@@ -114,10 +114,10 @@ export default function HomePage() {
             >
               <img src={category.image} alt="" className="absolute inset-0 h-full w-full object-cover opacity-70 transition duration-700 group-hover:scale-105 group-hover:opacity-90" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/15 to-transparent" />
-              <div className="absolute bottom-0 p-6 text-paper">
+              <div className="absolute bottom-0 p-6 text-ivory">
                 <p className="text-[0.65rem] uppercase tracking-[0.2em] text-[#e7cbbd]">0{index + 1}</p>
                 <h3 className="mt-2 font-serif text-4xl tracking-tight">{category.label}</h3>
-                <p className="mt-2 max-w-sm text-sm text-paper/80">{category.summary}</p>
+                <p className="mt-2 max-w-sm text-sm text-ivory/80">{category.summary}</p>
               </div>
             </Link>
           ))}

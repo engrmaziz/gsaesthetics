@@ -42,7 +42,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
               <dd className="mt-1">{service.idealFor}</dd>
             </div>
           </dl>
-          <a href={whatsappHref(message)} className="mt-8 inline-block cursor-pointer bg-ink px-5 py-3 text-sm text-paper hover:bg-moss">
+          <a href={whatsappHref(message)} className="mt-8 inline-block cursor-pointer bg-ink px-5 py-3 text-sm text-paper hover:bg-clay">
             Ask about {service.name}
           </a>
         </div>
@@ -60,7 +60,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
         </div>
       </section>
 
-      <section className="bg-ink text-paper">
+      <section className="bg-night text-ivory">
         <div className="mx-auto grid max-w-[1400px] gap-8 px-5 py-14 md:grid-cols-2 md:px-8">
           <div>
             <h2 className="font-serif text-3xl">How the visit runs</h2>

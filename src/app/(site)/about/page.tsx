@@ -28,9 +28,9 @@ export default function AboutPage() {
           </li>
         ))}
       </ol>
-      <aside className="mt-16 max-w-3xl bg-moss px-8 py-10 text-paper">
+      <aside className="mt-16 max-w-3xl bg-moss px-8 py-10 text-ivory">
         <h2 className="font-serif text-3xl">{founder.philanthropyTitle}</h2>
-        <p className="mt-4 leading-relaxed text-paper/80">{founder.philanthropy}</p>
+        <p className="mt-4 leading-relaxed text-ivory/80">{founder.philanthropy}</p>
       </aside>
     </article>
   );

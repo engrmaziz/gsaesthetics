@@ -37,7 +37,7 @@ export default function ContactPage() {
             </dd>
           </div>
         </dl>
-        <a href={whatsappHref()} className="mt-8 inline-block bg-ink px-5 py-3 text-sm text-paper hover:bg-moss">
+        <a href={whatsappHref()} className="mt-8 inline-block bg-ink px-5 py-3 text-sm text-paper hover:bg-clay">
           Message on WhatsApp
         </a>
       </div>
