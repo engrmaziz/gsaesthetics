@@ -99,8 +99,8 @@ export default function HomePage() {
       </section>
 
       <section className="border-t border-line">
-        <div className="mx-auto flex max-w-[1400px] items-end justify-between px-5 py-8 md:px-8">
-          <h2 className="font-serif text-5xl tracking-tight md:text-6xl">The menu</h2>
+        <div className="mx-auto flex max-w-[1400px] flex-wrap items-end justify-between gap-4 px-5 py-8 md:px-8">
+          <h2 className="font-serif text-4xl tracking-tight sm:text-5xl md:text-6xl">The menu</h2>
           <Link href="/services" className="text-sm uppercase tracking-[0.16em] text-clay">
             Full menu
           </Link>
@@ -110,13 +110,13 @@ export default function HomePage() {
             <Link
               key={category.slug}
               href={`/care/${category.slug}`}
-              className={`group relative min-h-[280px] overflow-hidden bg-ink ${index === 0 ? "md:col-span-3 md:row-span-2 md:min-h-[580px]" : "md:col-span-3"}`}
+              className={`group relative min-h-[240px] overflow-hidden bg-ink sm:min-h-[280px] ${index === 0 ? "md:col-span-3 md:row-span-2 lg:min-h-[580px]" : "md:col-span-3"}`}
             >
               <img src={category.image} alt="" className="absolute inset-0 h-full w-full object-cover opacity-70 transition duration-700 group-hover:scale-105 group-hover:opacity-90" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/15 to-transparent" />
               <div className="absolute bottom-0 p-6 text-ivory">
                 <p className="text-[0.65rem] uppercase tracking-[0.2em] text-[#e7cbbd]">0{index + 1}</p>
-                <h3 className="mt-2 font-serif text-4xl tracking-tight">{category.label}</h3>
+                <h3 className="mt-2 font-serif text-3xl tracking-tight sm:text-4xl">{category.label}</h3>
                 <p className="mt-2 max-w-sm text-sm text-ivory/80">{category.summary}</p>
               </div>
             </Link>

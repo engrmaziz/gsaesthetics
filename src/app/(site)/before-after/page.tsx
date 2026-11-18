@@ -49,7 +49,7 @@ export default function BeforeAfterPage() {
   return (
     <div className="mx-auto max-w-[1400px] px-5 py-16 md:px-8">
       <p className="text-xs uppercase tracking-[0.22em] text-clay">Before and after</p>
-      <h1 className="mt-3 max-w-3xl font-serif text-5xl leading-none tracking-tight md:text-7xl">
+      <h1 className="mt-3 max-w-3xl font-serif text-4xl leading-none tracking-tight sm:text-5xl md:text-7xl">
         The same face. The same light. A quieter change.
       </h1>
       <p className="mt-6 max-w-[62ch] text-lg text-quiet">
@@ -60,9 +60,9 @@ export default function BeforeAfterPage() {
           <figure key={pair.src}>
             <div className="relative">
               <img src={pair.src} alt={pair.alt} className="w-full object-cover" />
-              <div className="pointer-events-none absolute inset-x-0 top-0 grid grid-cols-2 text-[0.68rem] uppercase tracking-[0.2em] text-ink">
-                <span className="m-3 w-fit bg-paper/90 px-2 py-1">Before</span>
-                <span className="m-3 w-fit justify-self-end bg-paper/90 px-2 py-1">After</span>
+              <div className="pointer-events-none absolute inset-x-0 top-0 grid grid-cols-2 text-[0.62rem] uppercase tracking-[0.16em] text-ink sm:text-[0.68rem] sm:tracking-[0.2em]">
+                <span className="m-2 w-fit bg-paper/90 px-2 py-1 sm:m-3">Before</span>
+                <span className="m-2 w-fit justify-self-end bg-paper/90 px-2 py-1 sm:m-3">After</span>
               </div>
             </div>
             <figcaption className="mt-4 grid gap-2 md:grid-cols-12">

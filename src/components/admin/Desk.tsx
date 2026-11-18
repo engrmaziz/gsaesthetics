@@ -115,12 +115,12 @@ export function Desk() {
 
   return (
     <div className="min-h-[100dvh] bg-paper text-ink">
-      <header className="flex items-center justify-between border-b border-line px-5 py-4">
-        <div>
+      <header className="flex flex-wrap items-center justify-between gap-4 border-b border-line px-5 py-4">
+        <div className="min-w-0">
           <Logo />
-          <h1 className="font-serif text-3xl">Edit the clinic site</h1>
+          <h1 className="font-serif text-2xl sm:text-3xl">Edit the clinic site</h1>
         </div>
-        <div className="flex items-center gap-3 text-sm">
+        <div className="flex flex-wrap items-center gap-2 text-sm sm:gap-3">
           <ThemeToggle />
           <Link href="/" className="border border-line px-3 py-2">View site</Link>
           <button type="button" onClick={logout} className="cursor-pointer border border-line px-3 py-2">Sign out</button>

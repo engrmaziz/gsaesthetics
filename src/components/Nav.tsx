@@ -27,7 +27,7 @@ export function Nav({ whatsapp, groups }: { name: string; whatsapp: string; grou
         <Link href="/" aria-label="GS Aesthetic home" className="shrink-0">
           <Logo />
         </Link>
-        <nav className="hidden items-center gap-6 text-[0.78rem] uppercase tracking-[0.14em] text-quiet lg:flex">
+        <nav className="hidden items-center gap-3 text-[0.72rem] uppercase tracking-[0.12em] text-quiet xl:flex 2xl:gap-5 2xl:text-[0.78rem] 2xl:tracking-[0.14em]">
           <div className="relative" onMouseEnter={() => setMenu(true)} onMouseLeave={() => setMenu(false)}>
             <Link href="/services" className="cursor-pointer hover:text-ink">Services</Link>
             {menu ? (
@@ -63,7 +63,7 @@ export function Nav({ whatsapp, groups }: { name: string; whatsapp: string; grou
           </a>
           <ThemeToggle />
         </nav>
-        <div className="flex items-center gap-3 lg:hidden">
+        <div className="flex shrink-0 items-center gap-3 xl:hidden">
           <ThemeToggle />
           <button type="button" className="cursor-pointer" aria-label={open ? "Close menu" : "Open menu"} onClick={() => setOpen((value) => !value)}>
             {open ? <X size={24} /> : <List size={24} />}
@@ -71,7 +71,7 @@ export function Nav({ whatsapp, groups }: { name: string; whatsapp: string; grou
         </div>
       </div>
       {open ? (
-        <nav className="max-h-[75dvh] overflow-auto border-t border-line px-5 py-5 lg:hidden">
+        <nav className="max-h-[75dvh] overflow-auto border-t border-line px-5 py-5 xl:hidden">
           {groups.map((group) => (
             <div key={group.href} className="border-b border-line py-3">
               <Link href={group.href} onClick={() => setOpen(false)} className="font-serif text-2xl">

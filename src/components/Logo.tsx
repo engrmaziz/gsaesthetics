@@ -12,7 +12,7 @@ export function Logo({ tone = "auto" }: { tone?: "auto" | "light" | "dark" }) {
     <img
       src={dark ? "/media/logo-dark.png" : "/media/logo-light.png"}
       alt="GS Aesthetic, Gulberg"
-      className={dark ? "h-14 w-auto sm:h-16" : "h-10 w-auto sm:h-12"}
+      className={dark ? "h-12 w-auto max-w-[70vw] object-contain object-left sm:h-16 sm:max-w-none" : "h-9 w-auto max-w-[46vw] object-contain object-left sm:h-12 sm:max-w-none"}
     />
   );
 }
