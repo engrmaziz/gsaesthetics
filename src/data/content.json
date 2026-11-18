@@ -1,0 +1,2331 @@
+{
+  "practice": {
+    "name": "GS Aesthetic",
+    "tagline": "Natural hairlines and considered skin, in Gulberg.",
+    "description": "Boutique hair restoration and skin clinic at 24-P, Block P, Gulberg 2, Lahore. Hairline design, FUE and FUT, scalp treatments, and a short menu of skin and colour work led by Hammad Ghafoor.",
+    "doctorName": "Hammad Ghafoor",
+    "role": "Founder and lead aesthetician",
+    "phone": "0309-0037038",
+    "phoneRaw": "923090037038",
+    "phoneSecondary": "0323-1877314",
+    "email": "hello@gsaesthetic.online",
+    "addressLine": "24-P, Block P, Gulberg 2",
+    "addressFull": "24-P, Block P, Gulberg 2, Lahore",
+    "mapsUrl": "https://maps.google.com/?q=24-P+Block+P+Gulberg+2+Lahore",
+    "hours": "Monday to Saturday, 9:00–18:00",
+    "sunday": "Sunday by prior appointment",
+    "whatsappMessage": "Hello, I would like to book a consultation at GS Aesthetic.",
+    "instagram": "https://www.instagram.com/hammadghafooraesthetics/",
+    "facebook": "https://www.facebook.com/hammadghafooraesthetics/",
+    "youtube": "https://www.youtube.com/@hammadghafooraesthetics",
+    "stats": [
+      {
+        "value": "22 years",
+        "label": "in practice"
+      },
+      {
+        "value": "Gulberg 2",
+        "label": "one clinic"
+      },
+      {
+        "value": "Day 10",
+        "label": "every graft review"
+      },
+      {
+        "value": "12 months",
+        "label": "before a result is judged"
+      }
+    ]
+  },
+  "hero": {
+    "kicker": "gsaesthetic.online  ·  Gulberg 2",
+    "title": "A hairline drawn for the face you will still have.",
+    "emphasis": "Skin work with the same restraint.",
+    "lede": "GS Aesthetic plans natural hair restoration and a short list of skin treatments. The drawing is agreed before a graft is taken. Colour and tightening are booked only when they suit the skin in front of us.",
+    "image": "/media/hero-clinic.jpg",
+    "imageAlt": "Daylight reception at the Gulberg clinic, limestone and olive linen",
+    "primaryLabel": "Book on WhatsApp",
+    "secondaryLabel": "Read the method"
+  },
+  "founder": {
+    "kicker": "The practice",
+    "title": "Hammad Ghafoor",
+    "portrait": "/media/founder.jpg",
+    "portraitAlt": "Hammad Ghafoor in the Gulberg studio",
+    "paragraphs": [
+      "Hammad has spent two decades on hairlines and skin in Lahore. The practice is built around one room, one drawing, and a refusal to treat a graft count as the product.",
+      "Training ran through clinical dermatology and later aesthetic practice. The work that stayed is the work that still looks like the patient: irregular hairlines, doses written down, and skin plans that start with the barrier and the sun.",
+      "Since 1999 the same practice has kept a community clinic for people who cannot pay, with free skin consultations in Shadbagh and at the Gulberg rooms when the list allows."
+    ],
+    "timeline": [
+      {
+        "year": "1996–2001",
+        "title": "Clinical training",
+        "detail": "Dermatology and trichology foundations, including time associated with Sir Ganga Ram clinical teaching."
+      },
+      {
+        "year": "2002",
+        "title": "Aesthetic practice",
+        "detail": "Moved from general skin clinics into hairline design and non-surgical facial work."
+      },
+      {
+        "year": "1999",
+        "title": "Community list",
+        "detail": "Free consultations for families who cannot pay, continued alongside the Gulberg practice."
+      },
+      {
+        "year": "Now",
+        "title": "24-P, Gulberg 2",
+        "detail": "One flagship room. Consultations are booked, not walked into a queue."
+      }
+    ],
+    "philanthropyTitle": "The unpaid list",
+    "philanthropy": "Ask at reception if you need the community list. It is first-come on set days, for skin problems, and it is free. It is not a discounted transplant."
+  },
+  "method": {
+    "kicker": "Natural hairline architecture",
+    "title": "The edge is the whole operation.",
+    "lede": "A transplanted hairline fails in the first centimetre: a straight row, hairs the same thickness, a line drawn too low for the age of the face. The method here is a drawing you approve, then grafts chosen to serve that drawing.",
+    "image": "/media/hairline-detail.jpg",
+    "imageAlt": "Close view of a natural hairline edge",
+    "principles": [
+      {
+        "title": "Age before fashion",
+        "body": "The line sits where it will still make sense when the rest of the hair thins. A low line borrowed from a photograph is declined."
+      },
+      {
+        "title": "Singles on the edge",
+        "body": "The first irregular row is single hairs, not pairs. Direction follows the hair that is already there."
+      },
+      {
+        "title": "Donor is finite",
+        "body": "We will not empty the fringe to chase a number. Large cases are staged."
+      },
+      {
+        "title": "Judged at a year",
+        "body": "Shedding at week three is expected. Photographs at twelve months are the result, not the day-ten selfie."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Sit up and draw",
+        "body": "The hairline is drawn with you upright, in a mirror, in daylight. You leave with the drawing even if you do not book."
+      },
+      {
+        "title": "Count what the drawing needs",
+        "body": "Graft numbers come from the area and the density, not from a package."
+      },
+      {
+        "title": "Take only the safe fringe",
+        "body": "FUE or a strip, chosen for how you wear your hair. The donor is photographed before and after."
+      },
+      {
+        "title": "Place, then wait",
+        "body": "Day-ten review for crusts and direction. Growth is discussed at four months and judged at twelve."
+      }
+    ]
+  },
+  "categories": [
+    {
+      "slug": "hair-restoration",
+      "label": "Hair restoration",
+      "summary": "FUE, strip, hybrid, implanters, body hair, beard, and brows.",
+      "image": "/media/hairline-detail.jpg"
+    },
+    {
+      "slug": "scalp",
+      "label": "Scalp",
+      "summary": "Disease, PRP, pigment, exosomes, and laser hair reduction.",
+      "image": "/media/botanicals.jpg"
+    },
+    {
+      "slug": "skin",
+      "label": "Skin",
+      "summary": "Acne, melasma, vitiligo, cautery, needling, and facials with a medical limit.",
+      "image": "/media/skin-detail.jpg"
+    },
+    {
+      "slug": "face",
+      "label": "Face",
+      "summary": "HIFU, radiofrequency, filler, and expression lines with the dose written down.",
+      "image": "/media/treatment-room.jpg"
+    },
+    {
+      "slug": "body",
+      "label": "Body",
+      "summary": "A food plan and restorative sessions tied to the clinic record.",
+      "image": "/media/facade.jpg"
+    },
+    {
+      "slug": "colour",
+      "label": "Colour",
+      "summary": "Brows, lips, blush, lash lift, and glutathione only after a consultation.",
+      "image": "/media/consult-desk.jpg"
+    },
+    {
+      "slug": "salon",
+      "label": "Salon",
+      "summary": "Nails, lashes, spa, makeup, hair care, and training with a named syllabus.",
+      "image": "/media/treatment-room.jpg"
+    }
+  ],
+  "services": [
+    {
+      "imageAlt": "Follicular unit extraction at GS Aesthetic",
+      "howItWorks": [
+        "Consultation with density count, donor check, and a drawn hairline you approve in a mirror.",
+        "Local anaesthetic. Extraction with a small punch. No strip, no linear scar.",
+        "Site making that follows the natural exit angle of neighbouring hair.",
+        "Placement of singles on the edge, then two- and three-hair grafts behind.",
+        "Written wash plan for the first ten days and a review at day 10."
+      ],
+      "visit": [
+        "Eat a normal breakfast. Wash your hair the night before. Do not cut it extremely short unless asked.",
+        "Tell us about blood thinners, isotretinoin, and any previous transplant.",
+        "Plan a quiet evening. You leave the same day with a light dressing on the donor."
+      ],
+      "aftercare": [
+        "Sleep with the head raised for five nights.",
+        "Spray the recipient with the saline we give you. Do not pick crusts.",
+        "Gym, swimming, and direct sun wait two weeks.",
+        "The transplanted hair sheds. That is the follicle resetting, not a failed graft."
+      ],
+      "faqs": [
+        {
+          "q": "How many grafts will I need?",
+          "a": "A modest hairline and temples often sit between 1,800 and 2,800 grafts. A full front plus mid-scalp can need more than one sitting so the donor is not over-harvested."
+        },
+        {
+          "q": "Will people see a scar?",
+          "a": "FUE leaves dot marks in the donor that are usually hidden at a short fade. We do not promise an invisible donor if you shave to the skin."
+        },
+        {
+          "q": "When does it look like hair?",
+          "a": "Early growth starts around month four. The result is judged at twelve months, when calibre and direction have settled."
+        }
+      ],
+      "slug": "fue",
+      "name": "Follicular unit extraction",
+      "category": "hair-restoration",
+      "categoryLabel": "Hair restoration",
+      "summary": "Individual grafts taken from the donor fringe and placed into a hairline drawn for your face, age, and future loss.",
+      "duration": "One sitting, 6–9 hours",
+      "downtime": "Redness 7–10 days. Shed at week 3. Growth from month 4.",
+      "idealFor": "Men and women with a stable donor area who want an unshaven or short-fade donor.",
+      "image": "/media/hairline-detail.jpg",
+      "overview": [
+        "FUE at this clinic is a design appointment first and a graft count second. Hammad maps the temporal points, the mid-frontal peak, and the direction the hair already wants to grow, then extracts only what that drawing needs.",
+        "Punches stay in the safe donor zone above the nape and behind the ears. Grafts are kept moist, sorted by hair count, and placed so singles form the edge and doubles sit just behind it. The aim is a hairline that still looks correct in ten years, not a low line that ages badly."
+      ]
+    },
+    {
+      "imageAlt": "Follicular unit transplantation at GS Aesthetic",
+      "howItWorks": [
+        "Hairline drawing and donor laxity check.",
+        "Strip harvest and trichophytic closure.",
+        "Stereo-microscope dissection into follicular units.",
+        "Recipient sites and placement.",
+        "Suture removal and donor review on day 10."
+      ],
+      "visit": [
+        "Wear a button-front shirt.",
+        "Arrange a driver if you prefer not to go home alone.",
+        "Stop discussing graft numbers as a score. The drawing decides the number."
+      ],
+      "aftercare": [
+        "Keep the donor dry for 48 hours.",
+        "No neck strain or heavy lifting for two weeks.",
+        "The line fades over months. It is a line, and we say so before you book."
+      ],
+      "faqs": [
+        {
+          "q": "Why offer FUT at all?",
+          "a": "Some donors cannot spare a wide FUE harvest. A strip protects the surrounding density and can yield more grafts in one day."
+        },
+        {
+          "q": "Can I fade the back later?",
+          "a": "Not if the line must stay invisible. If you want a skin fade, we plan FUE instead."
+        }
+      ],
+      "slug": "fut",
+      "name": "Follicular unit transplantation",
+      "category": "hair-restoration",
+      "categoryLabel": "Hair restoration",
+      "summary": "A single donor strip for people who wear their hair longer and want the maximum grafts in one day.",
+      "duration": "One sitting, 5–8 hours",
+      "downtime": "Sutures out at day 10. Linear donor line hidden under longer hair.",
+      "idealFor": "Patients who keep hair over 3 cm at the back and need a large session.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "FUT is still the right operation when the donor must give a large number of grafts without thinning the whole fringe. A narrow strip is taken from the densest band, closed in a fine line, and dissected under magnification into natural follicular units.",
+        "The hairline rules are the same as FUE. Singles on the edge, irregular placement, no straight planted row. We recommend FUT only after you have seen where the line will sit in a mirror and agreed you can keep hair over it."
+      ]
+    },
+    {
+      "imageAlt": "Micro FUE at GS Aesthetic",
+      "howItWorks": [
+        "Macro photographs of the current edge.",
+        "Drawing over the old line.",
+        "Selective extraction of fine grafts.",
+        "Dense irregular placement.",
+        "Day-10 check of the edge only."
+      ],
+      "visit": [
+        "Bring old operative notes if you have them.",
+        "Do not dye the hair the week before."
+      ],
+      "aftercare": [
+        "No caps that rub the edge for ten days.",
+        "Baby shampoo from day three, poured, not rubbed."
+      ],
+      "faqs": [
+        {
+          "q": "Is this the same as DHI?",
+          "a": "No. Micro FUE describes the punch and the edge design. Implanter pens are a placement tool we use when the angle needs it, not a different operation."
+        }
+      ],
+      "slug": "micro-fue",
+      "name": "Micro FUE",
+      "category": "hair-restoration",
+      "categoryLabel": "Hair restoration",
+      "summary": "A finer punch and denser edge work for hairlines, temples, and small repairs of an older transplant.",
+      "duration": "4–7 hours",
+      "downtime": "Similar to FUE, often less donor clipping.",
+      "idealFor": "Hairline refinement, female temples, and repair of pluggy old work.",
+      "image": "/media/hairline-detail.jpg",
+      "overview": [
+        "Micro FUE uses a smaller punch and a slower pace so the first 1 cm of the hairline can be built from the finest single-hair grafts. It is the sitting we use when the problem is the edge, not a bald crown.",
+        "Repair cases start by deciding what to leave. Old plugs are sometimes left and softened with fine hair in front of them. Removing every old graft is rarely the kindest plan for the donor."
+      ]
+    },
+    {
+      "imageAlt": "Direct hair implantation at GS Aesthetic",
+      "howItWorks": [
+        "Design and density map.",
+        "FUE extraction.",
+        "Immediate loading into implanters.",
+        "Placement between existing hair.",
+        "Review of angle at day 10."
+      ],
+      "visit": [
+        "Expect a longer day than a small FUE. Loading the pens takes time."
+      ],
+      "aftercare": [
+        "Do not comb the recipient for two weeks.",
+        "Existing hair can be washed gently around the grafts."
+      ],
+      "faqs": [
+        {
+          "q": "Is DHI scarless?",
+          "a": "The donor is still FUE. The recipient has no separate slit marks, but the skin still reddens while grafts settle."
+        }
+      ],
+      "slug": "dhi",
+      "name": "Direct hair implantation",
+      "category": "hair-restoration",
+      "categoryLabel": "Hair restoration",
+      "summary": "Implanter-pen placement for tight angles along the hairline and between existing hairs.",
+      "duration": "6–9 hours",
+      "downtime": "Same recovery curve as FUE.",
+      "idealFor": "People who still have hair in the recipient and need grafts placed between them.",
+      "image": "/media/hairline-detail.jpg",
+      "overview": [
+        "DHI is a way of placing grafts, not a new biology. Each graft is loaded into a choi-style implanter and set at a controlled depth and angle. That control matters between existing hairs, where a pre-made slit can cut a neighbouring follicle.",
+        "We still extract with FUE. The pen does not increase survival by itself. Handling, hydration, and a hairline that matches your age do."
+      ]
+    },
+    {
+      "imageAlt": "Beard and moustache restoration at GS Aesthetic",
+      "howItWorks": [
+        "Drawing while you are sitting, not lying down.",
+        "Small FUE from the donor.",
+        "Shallow sites in the beard.",
+        "Singles at the border of the patch.",
+        "Written shaving timetable."
+      ],
+      "visit": [
+        "Arrive with a few days of growth so we can see direction.",
+        "Tell us if you have keloid scars."
+      ],
+      "aftercare": [
+        "No shaving for four weeks.",
+        "Sleep on your back.",
+        "The new beard sheds, then returns coarser over months."
+      ],
+      "faqs": [
+        {
+          "q": "Can I shave it to the skin later?",
+          "a": "Yes, after it has grown through. Early shaving pulls grafts."
+        }
+      ],
+      "slug": "beard",
+      "name": "Beard and moustache restoration",
+      "category": "hair-restoration",
+      "categoryLabel": "Hair restoration",
+      "summary": "Scalp donor placed into patchy cheeks, a weak moustache, or a scar in the beard.",
+      "duration": "3–6 hours",
+      "downtime": "Stubble redness for 7–14 days. Shaving waits a month.",
+      "idealFor": "Patchy genetic beards and scars that will not take a clean shave.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "Beard hair and scalp hair are not the same calibre. We say that before the drawing. Scalp donor can still build a believable cheek and a moustache if the direction follows the way beard hair lies: downward on the cheek, outward at the moustache.",
+        "Density is planned for a short beard, not a photograph taken the week after surgery. Overpacking the cheek marks the skin."
+      ]
+    },
+    {
+      "imageAlt": "Eyebrow restoration at GS Aesthetic",
+      "howItWorks": [
+        "Outline in pencil, checked standing.",
+        "Harvest of the finest donor hairs.",
+        "Flat angulation.",
+        "Asymmetric count so the pair matches.",
+        "Trim lesson at the first growth visit."
+      ],
+      "visit": [
+        "Do not wax or thread for three weeks before.",
+        "Bring a photo of your brows from before the loss if you have one."
+      ],
+      "aftercare": [
+        "No brow gel or pencil on the grafts for ten days.",
+        "Trim, do not pluck, the new hairs."
+      ],
+      "faqs": [
+        {
+          "q": "Will it look like microblading?",
+          "a": "No. These are growing hairs. The shape is softer and it needs trimming. Pigment is a different service."
+        }
+      ],
+      "slug": "brows",
+      "name": "Eyebrow restoration",
+      "category": "hair-restoration",
+      "categoryLabel": "Hair restoration",
+      "summary": "Fine single-hair grafts for over-plucked, scarred, or genetically thin brows.",
+      "duration": "2–4 hours",
+      "downtime": "Small scabs for a week. Brows need trimming forever because scalp hair grows long.",
+      "idealFor": "Stable brow loss, not active alopecia areata.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "Eyebrow work fails when the hairs are planted straight up. Each graft has to lie flat, heads toward the tail, with a change of direction at the arch. We use only single-hair grafts and a conservative outline you can live with without makeup.",
+        "Scalp hair in a brow must be trimmed. We treat that as part of the consent, not a surprise at month six."
+      ]
+    },
+    {
+      "imageAlt": "Scalp PRP at GS Aesthetic",
+      "howItWorks": [
+        "Photographs and a pull test.",
+        "Blood draw.",
+        "Spin and injection in a grid.",
+        "Plan for session two.",
+        "Compare photographs at month four."
+      ],
+      "visit": [
+        "Drink water. Eat. Avoid anti-inflammatory tablets the day before if your doctor agrees."
+      ],
+      "aftercare": [
+        "No dye or helmet pressure for 24 hours.",
+        "You can work the same day."
+      ],
+      "faqs": [
+        {
+          "q": "How many sessions?",
+          "a": "Three to start. Maintenance is usually two or three times a year if the photographs improve."
+        }
+      ],
+      "slug": "hair-prp",
+      "name": "Scalp PRP",
+      "category": "scalp",
+      "categoryLabel": "Scalp",
+      "summary": "Your own platelets, spun and placed into thinning scalp to support hair you still have.",
+      "duration": "45 minutes",
+      "downtime": "Tender scalp for a day. No hiding.",
+      "idealFor": "Early thinning, and as support after a transplant. Not a substitute for a hairline that is already gone.",
+      "image": "/media/botanicals.jpg",
+      "overview": [
+        "PRP is a maintenance treatment. A small blood draw is spun, and the platelet-rich portion is injected across the thinning zone. It does not create a hairline where follicles have disappeared.",
+        "We book a course of three sessions a month apart, then judge photographs, not a promise of density. If the pattern needs grafts, we say so at the first visit."
+      ]
+    },
+    {
+      "imageAlt": "Scalp pigmentation at GS Aesthetic",
+      "howItWorks": [
+        "Style consult and patch test.",
+        "First pass of pigment.",
+        "Heal for three weeks.",
+        "Second pass to correct fade.",
+        "Optional third pass for scars."
+      ],
+      "visit": [
+        "Arrive with the haircut you actually wear.",
+        "No alcohol the night before."
+      ],
+      "aftercare": [
+        "Keep the scalp dry for four days.",
+        "No sauna or swimming for ten days.",
+        "Use the sunscreen we specify. Sun fades pigment."
+      ],
+      "faqs": [
+        {
+          "q": "Is it a tattoo?",
+          "a": "It is pigment in the upper skin, placed as dots rather than lines. It fades and needs a refresh every few years."
+        }
+      ],
+      "slug": "smp",
+      "name": "Scalp pigmentation",
+      "category": "scalp",
+      "categoryLabel": "Scalp",
+      "summary": "Pointillist pigment that restores the look of closely cropped hair or camouflages a donor.",
+      "duration": "Two or three sittings of 2–3 hours",
+      "downtime": "Mild redness for two days. Colour settles over a month.",
+      "idealFor": "Cropped styles, scar camouflage, and adding the look of density between grafts.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "SMP is ink, not hair. The skill is the dot: small, irregular, and matched to a colour that will not turn blue. We use it to soften a wide donor, to give a shaved look, or to darken the spaces between a thin transplant.",
+        "It is the wrong choice if you want length. Pigment does not grow. We draw the hairline higher than a graft hairline, because ink cannot be combed."
+      ]
+    },
+    {
+      "imageAlt": "Scalp exosome support at GS Aesthetic",
+      "howItWorks": [
+        "Review of your current plan.",
+        "Scalp cleanse.",
+        "Application and a short massage.",
+        "Photographs.",
+        "Book only if the first review justifies it."
+      ],
+      "visit": [
+        "Come with a clean scalp, no fibre powder or spray."
+      ],
+      "aftercare": [
+        "Leave the scalp alone for the evening.",
+        "Continue your normal wash from the next morning."
+      ],
+      "faqs": [
+        {
+          "q": "Will this regrow a bald crown?",
+          "a": "No. If the crown is smooth and shiny, the honest option is grafts or a decision to leave it."
+        }
+      ],
+      "slug": "exosomes",
+      "name": "Scalp exosome support",
+      "category": "scalp",
+      "categoryLabel": "Scalp",
+      "summary": "A clinic-applied serum used alongside PRP or a transplant for the early months of growth.",
+      "duration": "30 minutes",
+      "downtime": "None beyond a damp scalp.",
+      "idealFor": "Patients already in a transplant or PRP plan who want an added scalp treatment.",
+      "image": "/media/botanicals.jpg",
+      "overview": [
+        "Exosome serums are an adjunct. We do not sell them as a stand-alone cure for baldness. In this clinic they are applied to a prepared scalp during the months when transplanted hair is shedding and new growth has not started.",
+        "You will be told the product name, the batch, and what it is not licensed to claim. If a simpler plan is enough, we stop at PRP."
+      ]
+    },
+    {
+      "imageAlt": "Laser hair reduction at GS Aesthetic",
+      "howItWorks": [
+        "Skin and hair check, including recent sun.",
+        "Shave the area the night before, not wax.",
+        "Test spot when the skin is new to us.",
+        "Full pass.",
+        "Review at six weeks."
+      ],
+      "visit": [
+        "No waxing or threading for four weeks.",
+        "Stop retinoids on the area as advised.",
+        "Come without makeup on the treatment zone."
+      ],
+      "aftercare": [
+        "Cool the skin. No hot showers that night.",
+        "SPF every morning on treated face.",
+        "Expect shedding of treated hairs over two weeks. That is the result, not new growth."
+      ],
+      "faqs": [
+        {
+          "q": "Is it permanent?",
+          "a": "It is a long-term reduction. Hormones, especially on the female face, can wake new hairs. Maintenance sittings are part of an honest plan."
+        }
+      ],
+      "slug": "laser-hair-removal",
+      "name": "Laser hair reduction",
+      "category": "scalp",
+      "categoryLabel": "Scalp",
+      "summary": "Medical laser for unwanted facial and body hair, planned around your skin tone and a real course of sittings.",
+      "duration": "15–60 minutes by area",
+      "downtime": "Warmth for a few hours. No sun on the area.",
+      "idealFor": "Dark hair on skin that has not been tanned. Grey hair does not respond.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "Hair reduction is a course, usually six to eight sittings, spaced to the growth cycle of that area. We match the device settings to your skin and refuse a session if you are tanned or using photosensitive medicines.",
+        "Faces, beards you want to thin, underarms, and bikini lines are planned separately. Settings for a cheek are not settings for a leg."
+      ]
+    },
+    {
+      "imageAlt": "Facial PRP at GS Aesthetic",
+      "howItWorks": [
+        "Skin reading in daylight.",
+        "Blood draw and spin.",
+        "Numbing.",
+        "Injection or microneedle delivery.",
+        "Soothing and SPF."
+      ],
+      "visit": [
+        "No active cold sore. Tell us if you are prone to them.",
+        "Arrive without makeup."
+      ],
+      "aftercare": [
+        "No acids or retinoid for five days.",
+        "SPF.",
+        "Makeup the next day if the skin is calm."
+      ],
+      "faqs": [
+        {
+          "q": "Is this a vampire facial?",
+          "a": "The nickname is not how we book it. You get a named plan, a count of sessions, and photographs."
+        }
+      ],
+      "slug": "face-prp",
+      "name": "Facial PRP",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "Platelets placed into tired facial skin for texture and a quieter surface, not a new face shape.",
+      "duration": "50 minutes",
+      "downtime": "Speckled redness for 24–48 hours.",
+      "idealFor": "Dull texture, early crepe skin, and patients who want to avoid filler.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "Facial PRP does not lift a jaw and it does not replace lost fat. Used on the right skin it can make texture look rested: finer pores in photographs, a less papery cheek.",
+        "A course of three is the minimum we judge. One session is a sample, not a result."
+      ]
+    },
+    {
+      "imageAlt": "Microdermabrasion at GS Aesthetic",
+      "howItWorks": [
+        "Barrier check.",
+        "Cleanse.",
+        "Pass with the crystal or diamond head.",
+        "Calm and moisturise.",
+        "SPF and a written pause on acids."
+      ],
+      "visit": [
+        "Stop scrubs for a week.",
+        "Tell us every product on your shelf. Most congestion starts there."
+      ],
+      "aftercare": [
+        "No gym sweat and no makeup for the evening.",
+        "Moisturiser and SPF only for three days."
+      ],
+      "faqs": [
+        {
+          "q": "Will it remove acne scars?",
+          "a": "It softens rough edges. Ice-pick scars need a different plan, and we will say so."
+        }
+      ],
+      "slug": "microdermabrasion",
+      "name": "Microdermabrasion",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "A controlled polish for rough texture and blocked pores when the skin barrier is healthy.",
+      "duration": "40 minutes",
+      "downtime": "Pink for a few hours.",
+      "idealFor": "Thick, dull skin. Not for rosacea flares or a broken barrier.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "This is a mechanical polish, useful when skin looks dusty and congested and useless when skin is already angry. We check the barrier first. If you are red, peeling from retinoid, or sunburnt, the appointment becomes a barrier plan instead.",
+        "A single polish brightens for a week. Texture changes when it is part of a short course and a simple home routine."
+      ]
+    },
+    {
+      "imageAlt": "Acne and pigment clinic at GS Aesthetic",
+      "howItWorks": [
+        "History, including hormones and fragrance allergy.",
+        "Photographs in the same light each visit.",
+        "A short medicine list.",
+        "In-clinic peel only when the barrier allows.",
+        "Review at six weeks, not six days."
+      ],
+      "visit": [
+        "Bring the creams you own, including the ones from the pharmacy.",
+        "No new facial the week before."
+      ],
+      "aftercare": [
+        "SPF reapplied if you are outside.",
+        "No steam facials during a pigment plan.",
+        "Stop if the skin burns. Message us before adding another acid."
+      ],
+      "faqs": [
+        {
+          "q": "Can glutathione clear melasma?",
+          "a": "We do not use drips for pigment. Melasma is treated on the skin, with sun control. Drips are a separate, limited service and not a bleach."
+        }
+      ],
+      "slug": "acne-melasma",
+      "name": "Acne and pigment clinic",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "A diagnosis-led plan for breakouts and patchy pigment, with medicines, peels, and sun rules written down.",
+      "duration": "First visit 45 minutes, reviews 20",
+      "downtime": "Depends on the peel or medicine. Many plans have none.",
+      "idealFor": "Active acne, post-acne marks, and melasma that has already been irritated by random creams.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "Acne and melasma are managed, not erased in an afternoon. The first visit separates active disease from marks, checks what you have already put on the skin, and stops the products that are making the barrier worse.",
+        "Melasma in Lahore is a sun disease as much as a pigment disease. No peel is booked until the SPF habit is real. Hydroquinone, azelaic acid, and gentle peels are chosen to the patch, not from a menu on the wall."
+      ]
+    },
+    {
+      "imageAlt": "Hydrating facial at GS Aesthetic",
+      "howItWorks": [
+        "Double cleanse.",
+        "Mild acid chosen to oil level.",
+        "Extraction of ready comedones.",
+        "Serum and moisturiser.",
+        "SPF if you are leaving in daylight."
+      ],
+      "visit": [
+        "Tell us about rosacea and recent peels.",
+        "Come without a fresh tan."
+      ],
+      "aftercare": [
+        "Leave the skin alone that night.",
+        "No new retinol for 48 hours."
+      ],
+      "faqs": [
+        {
+          "q": "Will I glow for a wedding?",
+          "a": "Yes, in the sense of cleaner, more hydrated skin. It will not change your bone structure or your skin colour."
+        }
+      ],
+      "slug": "hydra-facial",
+      "name": "Hydrating facial",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "Cleanse, a mild acid, extraction where pores are blocked, and a water-binding finish. No steam theatre.",
+      "duration": "50 minutes",
+      "downtime": "None. Makeup can go on after.",
+      "idealFor": "Dehydrated city skin and congested chins before an event.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "The facial is a proper clean of the skin you have, not a whitening ritual. We extract only what is ready, keep acids mild, and finish with humectants. If your skin is sensitised, the facial becomes a calm treatment and we skip the extraction.",
+        "Book it the day before an event, not the morning of one. Skin looks best the next day."
+      ]
+    },
+    {
+      "imageAlt": "Antioxidant consultation at GS Aesthetic",
+      "howItWorks": [
+        "Listen to the request without agreeing to it.",
+        "Examine pigment in daylight.",
+        "Explain what oral glutathione can and cannot do.",
+        "Write a sun and topical plan if pigment is the issue.",
+        "Decline drips."
+      ],
+      "visit": [
+        "Bring previous drip records if you have had them elsewhere."
+      ],
+      "aftercare": [
+        "Follow the topical plan.",
+        "Do not add unmarked whitening creams. Many contain steroid."
+      ],
+      "faqs": [
+        {
+          "q": "Why is this on the menu?",
+          "a": "Because patients ask, and a clear refusal with an alternative is better than a drip menu."
+        }
+      ],
+      "slug": "glutathione",
+      "name": "Antioxidant consultation",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "A supervised look at oral antioxidant support. We do not sell skin-bleaching drips.",
+      "duration": "30 minutes",
+      "downtime": "None for oral plans.",
+      "idealFor": "Patients asking about glow who need an honest limit on what antioxidants can do.",
+      "image": "/media/botanicals.jpg",
+      "overview": [
+        "People ask for glutathione because they have been promised a lighter face. That is not a service here. What we will do is look at pigment, sun, and routine, and discuss whether an oral antioxidant has any role beside a real pigment plan.",
+        "Intravenous skin lightening is not offered. If that is the only request, the consultation ends with a no, and with a plan for the actual problem if you want one."
+      ]
+    },
+    {
+      "imageAlt": "HIFU skin tightening at GS Aesthetic",
+      "howItWorks": [
+        "Photographs and a pinch test of laxity.",
+        "Marking.",
+        "Ultrasound passes at the agreed depth.",
+        "Cool and moisturise.",
+        "Review at twelve weeks."
+      ],
+      "visit": [
+        "No active skin infection.",
+        "Tell us about metal implants and pacemakers.",
+        "Come without heavy makeup."
+      ],
+      "aftercare": [
+        "No firm massage for a week.",
+        "SPF.",
+        "Do not judge it in the car park. Swelling is not the result."
+      ],
+      "faqs": [
+        {
+          "q": "How many sessions?",
+          "a": "Usually one, reviewed at three months. A second pass is booked only if the photographs justify it."
+        }
+      ],
+      "slug": "hifu",
+      "name": "HIFU skin tightening",
+      "category": "face",
+      "categoryLabel": "Face",
+      "summary": "Focused ultrasound for early jaw and brow laxity. A lift measured in millimetres, judged at three months.",
+      "duration": "60–90 minutes",
+      "downtime": "Tenderness for a few days. No social downtime.",
+      "idealFor": "Mild laxity. Not a replacement for surgery when the neck has fallen.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "HIFU heats a deep layer of tissue so it contracts a little and lays down collagen slowly. The result, when it suits the face, is a sharper jaw in photographs at three months. It will not remove a heavy neck or replace a surgical lift.",
+        "We mark the face, avoid nerve paths, and turn the energy down over thin skin. Pain is a signal to adjust, not a sign that it is working harder."
+      ]
+    },
+    {
+      "imageAlt": "Filler and wrinkle-relaxer clinic at GS Aesthetic",
+      "howItWorks": [
+        "Photographs at rest and in expression.",
+        "Marking.",
+        "Treatment with the agreed product.",
+        "Mirror check before more is added.",
+        "Written aftercare and a review date."
+      ],
+      "visit": [
+        "No dental work in the past fortnight.",
+        "Tell us about autoimmune disease and previous filler, including the brand."
+      ],
+      "aftercare": [
+        "No exercise, alcohol, or face-down sleep that night.",
+        "Do not massage unless we show you.",
+        "Call if the skin blanches, mottles, or hurts in a new way."
+      ],
+      "faqs": [
+        {
+          "q": "Will I look done?",
+          "a": "Not if the plan is small. If you want a large change in one visit, we will not be the right clinic."
+        }
+      ],
+      "slug": "fillers",
+      "name": "Filler and wrinkle-relaxer clinic",
+      "category": "face",
+      "categoryLabel": "Face",
+      "summary": "Small amounts of hyaluronic acid and botulinum toxin for structure and expression lines. Doses written down.",
+      "duration": "30–60 minutes",
+      "downtime": "Needle marks for a day. Filler can swell for a week.",
+      "idealFor": "Patients who can describe the line or the hollow, not a filtered face.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "This clinic uses filler to replace a specific hollow and toxin to soften a specific pull. We do not fill cheeks until a face looks different in photographs of the same person. You will see the product, the batch, and the amount.",
+        "Lips, tear troughs, and noses are declined when the anatomy is wrong for a needle. A no is part of the service."
+      ]
+    },
+    {
+      "imageAlt": "Radiofrequency firming at GS Aesthetic",
+      "howItWorks": [
+        "Baseline photographs.",
+        "Cleanse and conductant gel.",
+        "Passes until the therapeutic warmth is reached.",
+        "Moisturiser and SPF.",
+        "Next visit in one to two weeks."
+      ],
+      "visit": [
+        "Remove metal jewellery.",
+        "No fresh injectables in the area."
+      ],
+      "aftercare": [
+        "SPF.",
+        "Keep retinoid to your usual nights unless the skin is warm."
+      ],
+      "faqs": [
+        {
+          "q": "Is one session enough?",
+          "a": "No. Book the course or do not start."
+        }
+      ],
+      "slug": "tripollar",
+      "name": "Radiofrequency firming",
+      "category": "face",
+      "categoryLabel": "Face",
+      "summary": "A course of controlled heat for crepey skin on the lower face, when ultrasound is more than you need.",
+      "duration": "40 minutes, usually six visits",
+      "downtime": "Warmth for an hour.",
+      "idealFor": "Early crepe, and maintenance after HIFU.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "Radiofrequency warms the skin more superficially than HIFU. It suits crepey texture and a mild loss of snap. Results are cumulative, so the booking is a course with photographs at the start and the end.",
+        "We do not stack it in the same week as a peel or filler."
+      ]
+    },
+    {
+      "imageAlt": "Tinted skin finish at GS Aesthetic",
+      "howItWorks": [
+        "Barrier and pigment check.",
+        "Patch of colour matched, not lightened.",
+        "Shallow working of the tint.",
+        "Calm and SPF.",
+        "Photographs so you can see the fade yourself."
+      ],
+      "visit": [
+        "No acids for five days before.",
+        "Come with the shade you actually want to look like in daylight."
+      ],
+      "aftercare": [
+        "No scrubbing.",
+        "SPF.",
+        "Expect it to leave. Booking a top-up every week is how the skin gets injured."
+      ],
+      "faqs": [
+        {
+          "q": "How long does it last?",
+          "a": "Days to about two weeks. Anything promising permanence is not this treatment."
+        }
+      ],
+      "slug": "bb-glow",
+      "name": "Tinted skin finish",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "A light cosmetic tint worked into the surface for a short-lived evenness. It is makeup that lasts days, not a new complexion.",
+      "duration": "60 minutes",
+      "downtime": "Pink for a day. Tint fades over one to two weeks.",
+      "idealFor": "A short event window. Not for melasma, and not as a whitening treatment.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "BB glow is marketed elsewhere as a permanent lighter face. Here it is described as it behaves: a tint in the very surface that fades. We will not perform it over active melasma, eczema, or a damaged barrier.",
+        "If the request is a lighter skin tone, the appointment becomes the pigment clinic instead."
+      ]
+    },
+    {
+      "imageAlt": "Eyebrow microblading at GS Aesthetic",
+      "howItWorks": [
+        "Measure and draw.",
+        "Your approval, photographed.",
+        "Stroke work.",
+        "Pigment and wipe-back until the colour is even.",
+        "Heal, then perfect at six weeks."
+      ],
+      "visit": [
+        "No brow tint or henna for two weeks.",
+        "No retinoid on the brow for a week.",
+        "Tell us about isotretinoin in the past year."
+      ],
+      "aftercare": [
+        "Keep the brow dry and unpicked.",
+        "No brow makeup until the perfecting visit.",
+        "SPF once healed. Sun shifts pigment."
+      ],
+      "faqs": [
+        {
+          "q": "How long does it last?",
+          "a": "Typically 12–18 months before a colour refresh, faster on oily skin."
+        }
+      ],
+      "slug": "microblading",
+      "name": "Eyebrow microblading",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "Hair-like strokes of pigment for sparse brows, mapped to the bone structure you have.",
+      "duration": "2 hours, plus a perfecting visit at 6 weeks",
+      "downtime": "Darker and sharper for a week, then it softens.",
+      "idealFor": "Sparse brows with healthy skin. Not over active acne in the brow or keloid tendency.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "The drawing takes longer than the blading. You approve the shape sitting up, in daylight, before any pigment is opened. Strokes follow the direction of the hairs you still have.",
+        "Pigment is chosen a shade softer than you think, because fresh strokes always look darker. A six-week perfecting visit is part of the fee, not an upsell."
+      ]
+    },
+    {
+      "imageAlt": "Lip blush at GS Aesthetic",
+      "howItWorks": [
+        "Colour test on the arm and a sheer pass on the lip.",
+        "Approval.",
+        "Numb.",
+        "Pigment in passes.",
+        "Heal, then a perfecting visit."
+      ],
+      "visit": [
+        "Start antivirals if you are prone to cold sores.",
+        "Come well hydrated. Dry lips take pigment badly."
+      ],
+      "aftercare": [
+        "The provided balm only.",
+        "No spice, no kissing, no lipstick while the skin is peeling.",
+        "The first week is not the colour."
+      ],
+      "faqs": [
+        {
+          "q": "Will my lips look bigger?",
+          "a": "Only while they are swollen. The settled result is colour, not volume."
+        }
+      ],
+      "slug": "lip-blush",
+      "name": "Lip blush",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "A soft pigment wash that restores the colour of the lip you have. It does not draw a new, larger mouth.",
+      "duration": "2 hours including numbing",
+      "downtime": "Dry, darker lips for five days. Colour settles in a month.",
+      "idealFor": "Pale or uneven lip colour. Not during a cold-sore outbreak.",
+      "image": "/media/botanicals.jpg",
+      "overview": [
+        "Lip blush sits inside your natural border. We do not extend the vermilion to imitate a filler result. Colour is tested and agreed before the lip is numbed, because numb lips look bigger than they are.",
+        "If you get cold sores, you need antiviral cover from your doctor before the day. We will not start on a tingle."
+      ]
+    },
+    {
+      "imageAlt": "Hybrid FUT and FUE at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Hybrid FUT and FUE for?",
+          "a": "Large restorations where the donor must be used carefully."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "hybrid",
+      "name": "Hybrid FUT and FUE",
+      "category": "hair-restoration",
+      "categoryLabel": "Hair restoration",
+      "summary": "A strip plus a selective FUE harvest when one method alone cannot supply the drawing.",
+      "duration": "One long day",
+      "downtime": "Donor line plus dot marks. Sutures out at day 10.",
+      "idealFor": "Large restorations where the donor must be used carefully.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "Hybrid surgery takes a narrow strip from the densest band and then extracts additional grafts by FUE around it. It is chosen when the hairline drawing needs more grafts than either method should give alone.",
+        "The design rules do not change. Singles still make the edge. The hybrid decision is about the donor, and it is explained with photographs before you book."
+      ],
+      "howItWorks": [
+        "Donor laxity and density map.",
+        "Strip harvest and closure.",
+        "FUE from the remaining safe fringe.",
+        "One placement plan for both harvests.",
+        "Day-10 review of the line and the dots."
+      ],
+      "visit": [
+        "Plan the whole day.",
+        "Wear a button-front shirt.",
+        "You will be told which part of the donor does which job."
+      ],
+      "aftercare": [
+        "Two different donor aftercares: a line and a field of dots.",
+        "No gym for two weeks.",
+        "Do not judge density before month twelve."
+      ]
+    },
+    {
+      "imageAlt": "Body hair transplant at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Body hair transplant for?",
+          "a": "Repair cases with a limited scalp donor, not a first hairline."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "bht",
+      "name": "Body hair transplant",
+      "category": "hair-restoration",
+      "categoryLabel": "Hair restoration",
+      "summary": "Chest or beard donor used only when the scalp fringe is already thin.",
+      "duration": "A staged sitting",
+      "downtime": "Donor redness on the body for one to two weeks.",
+      "idealFor": "Repair cases with a limited scalp donor, not a first hairline.",
+      "image": "/media/hairline-detail.jpg",
+      "overview": [
+        "Body hair is a reserve, not a first choice. The calibre, colour, and growth cycle differ from scalp hair, so it is placed behind a hairline that is already built from scalp grafts.",
+        "Beard hair under the chin is the most useful body source. Chest hair is coarser and is used sparingly, usually in the mid-scalp or crown."
+      ],
+      "howItWorks": [
+        "Scalp donor audit first.",
+        "Test of beard or chest calibre.",
+        "Small harvest.",
+        "Placement behind the hairline.",
+        "A second sitting only if the first has taught us the growth."
+      ],
+      "visit": [
+        "Shave the donor zone the night before if asked.",
+        "Tell us about keloid scars."
+      ],
+      "aftercare": [
+        "Keep the body donor clean and covered from sun.",
+        "Do not expect body hair to behave like scalp hair in the first months."
+      ]
+    },
+    {
+      "imageAlt": "Hair and scalp disease clinic at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Hair and scalp disease clinic for?",
+          "a": "Sudden shedding, alopecia areata, and scalps that are red, sore, or scarred."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "hair-diseases",
+      "name": "Hair and scalp disease clinic",
+      "category": "scalp",
+      "categoryLabel": "Scalp",
+      "summary": "A diagnosis visit for shedding, patches, itch, and scarring before anyone talks about grafts.",
+      "duration": "40 minutes",
+      "downtime": "None, unless a biopsy is planned.",
+      "idealFor": "Sudden shedding, alopecia areata, and scalps that are red, sore, or scarred.",
+      "image": "/media/botanicals.jpg",
+      "overview": [
+        "A transplant into active disease wastes the donor. This visit separates pattern loss from shedding, alopecia areata, infection, and scarring alopecias.",
+        "Treatment may be medicine, an injection plan, or a decision to wait. Grafts are discussed only when the scalp is quiet."
+      ],
+      "howItWorks": [
+        "History and a pull test.",
+        "Dermoscopy photographs.",
+        "A medicine plan or a biopsy referral.",
+        "Review at six to eight weeks.",
+        "Transplant conversation only after stability."
+      ],
+      "visit": [
+        "Do not wash the morning of the visit if we are assessing scale.",
+        "Bring a list of oils and medicines already used."
+      ],
+      "aftercare": [
+        "Follow the written plan.",
+        "Stop new oils until the diagnosis is clear."
+      ]
+    },
+    {
+      "imageAlt": "PRP with microneedling at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is PRP with microneedling for?",
+          "a": "Uneven texture and early crepe when the barrier is intact."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "prp-microneedling",
+      "name": "PRP with microneedling",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "Platelets delivered through a short needle depth for texture, not for a new face shape.",
+      "duration": "60 minutes",
+      "downtime": "Redness for 24–48 hours.",
+      "idealFor": "Uneven texture and early crepe when the barrier is intact.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "Microneedling opens a shallow path. PRP is the material placed through it. Together they are a texture treatment, judged on photographs over a course of three.",
+        "It is not booked over active acne cysts, a cold sore, or skin that is already peeled raw."
+      ],
+      "howItWorks": [
+        "Barrier check.",
+        "Blood draw and spin.",
+        "Numbing.",
+        "Needling at a set depth.",
+        "PRP applied and a calm finish."
+      ],
+      "visit": [
+        "No retinoid for five days before.",
+        "Arrive without makeup."
+      ],
+      "aftercare": [
+        "No acids for five days.",
+        "SPF.",
+        "The speckled look the next morning is expected."
+      ]
+    },
+    {
+      "imageAlt": "Electrocautery at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Electrocautery for?",
+          "a": "Tags and lesions that have already been diagnosed as harmless."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "electrocautery",
+      "name": "Electrocautery",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "A fine electrical tip for skin tags, small vessels, and selected raised lesions after they have been looked at.",
+      "duration": "15–30 minutes",
+      "downtime": "A small scab for about a week.",
+      "idealFor": "Tags and lesions that have already been diagnosed as harmless.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "Cautery is a removal tool, not a facial. Anything pigmented, changing, or uncertain is examined first and is not burned off for convenience.",
+        "The tip is small. The aim is a flat scar smaller than the lesion, not a guaranteed invisible mark."
+      ],
+      "howItWorks": [
+        "Look at the lesion in daylight.",
+        "Consent for a mark.",
+        "Local anaesthetic if needed.",
+        "Treatment.",
+        "Wound care written down."
+      ],
+      "visit": [
+        "Point to the exact lesions. Do not arrive asking for 'everything'."
+      ],
+      "aftercare": [
+        "Keep the spot dry for 24 hours.",
+        "Do not pick the scab.",
+        "SPF once healed."
+      ]
+    },
+    {
+      "imageAlt": "Acne clinic at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Acne clinic for?",
+          "a": "Active acne on the face, chest, or back."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "acne",
+      "name": "Acne clinic",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "A staged plan for blackheads, inflamed spots, and cysts, with the products that are making it worse taken off the shelf.",
+      "duration": "45 minutes, then reviews",
+      "downtime": "Depends on the medicine. Many plans have none.",
+      "idealFor": "Active acne on the face, chest, or back.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "Acne is treated as a disease with a timeline, not as a facial add-on. The first visit sorts comedones from inflamed spots and from scars.",
+        "Medicines, a short in-clinic peel when the barrier allows, and a review at six weeks. Random acids from the pharmacy are stopped."
+      ],
+      "howItWorks": [
+        "History, including hormones.",
+        "Photographs.",
+        "A short medicine list.",
+        "Extraction only of what is ready.",
+        "Review, not a new facial every week."
+      ],
+      "visit": [
+        "Bring every cream you own.",
+        "No new facial the week before."
+      ],
+      "aftercare": [
+        "Do not add a second acid.",
+        "Message us if the skin burns."
+      ]
+    },
+    {
+      "imageAlt": "Vitiligo clinic at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Vitiligo clinic for?",
+          "a": "New or spreading pale patches."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "vitiligo",
+      "name": "Vitiligo clinic",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "A medical plan for pigment loss. Camouflage is discussed separately from treatment.",
+      "duration": "40 minutes",
+      "downtime": "None for the consultation.",
+      "idealFor": "New or spreading pale patches.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "Vitiligo needs a diagnosis and a map of activity before any light or medicine. Stable patches and spreading patches are not the same appointment.",
+        "We do not promise repigmentation. We document, treat what is appropriate, and say clearly when camouflage is the kinder plan."
+      ],
+      "howItWorks": [
+        "Full skin look, not just the patch you noticed.",
+        "Photographs with a scale.",
+        "Activity check.",
+        "Medicine or light plan.",
+        "Review at eight to twelve weeks."
+      ],
+      "visit": [
+        "Do not apply camouflage the morning of the visit.",
+        "Tell us about thyroid disease and family history."
+      ],
+      "aftercare": [
+        "Sun protection on the pale skin.",
+        "Do not start unmarked fairness creams."
+      ]
+    },
+    {
+      "imageAlt": "Melasma clinic at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Melasma clinic for?",
+          "a": "Symmetrical brown patches on the cheeks, forehead, or upper lip."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "melasma",
+      "name": "Melasma clinic",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "Patchy facial pigment treated with sun control first, then a topical plan. No bleach drips.",
+      "duration": "40 minutes",
+      "downtime": "Peels, if used, pink the skin for a few days.",
+      "idealFor": "Symmetrical brown patches on the cheeks, forehead, or upper lip.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "Melasma in Lahore is driven by light. No procedure is booked until sunscreen is actually being used.",
+        "The plan is topical: a limited list, sometimes a gentle peel. Heat, steam, and aggressive lasers are how melasma gets darker, so they are not the menu."
+      ],
+      "howItWorks": [
+        "Photographs in the same light.",
+        "Stop the creams that contain steroid.",
+        "Write a morning and night list.",
+        "Review at six weeks.",
+        "Peel only if the barrier is calm."
+      ],
+      "visit": [
+        "Come without foundation.",
+        "Bring the whitening creams."
+      ],
+      "aftercare": [
+        "SPF reapplied if you are outside.",
+        "No steam facials during the plan."
+      ]
+    },
+    {
+      "imageAlt": "General skin clinic at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is General skin clinic for?",
+          "a": "Rashes, itch, infections, and anything you are worried might not be cosmetic."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "skin-disease",
+      "name": "General skin clinic",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "Eczema, infections, rashes, and the ordinary skin problems that do not belong on a cosmetic menu.",
+      "duration": "30 minutes",
+      "downtime": "None.",
+      "idealFor": "Rashes, itch, infections, and anything you are worried might not be cosmetic.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "The cosmetic list sits beside a normal skin clinic. Rashes are diagnosed and treated as rashes. They are not pushed into a facial package.",
+        "If a lesion needs a biopsy or a referral, that is the outcome of the visit."
+      ],
+      "howItWorks": [
+        "History.",
+        "Examination.",
+        "A diagnosis in plain language.",
+        "Medicine or a procedure.",
+        "A review date."
+      ],
+      "visit": [
+        "Do not apply steroid the morning of the visit if you can avoid it.",
+        "List other illnesses and tablets."
+      ],
+      "aftercare": [
+        "Use the medicine for the number of days written, not until the tube is empty if we said to stop."
+      ]
+    },
+    {
+      "imageAlt": "Expression lines at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Expression lines for?",
+          "a": "Lines made by movement, not by loose skin."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "face-wrinkles",
+      "name": "Expression lines",
+      "category": "face",
+      "categoryLabel": "Face",
+      "summary": "Wrinkle-relaxing injections for specific pulls: frown, forehead, and crow's feet. Doses written down.",
+      "duration": "20–30 minutes",
+      "downtime": "Small marks for an hour. Result at two weeks.",
+      "idealFor": "Lines made by movement, not by loose skin.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "This visit treats movement. If the fold is there at rest because the skin has fallen, toxin will not lift it and we will say so.",
+        "You see the product and the units. A review at two weeks adjusts asymmetry. Chasing a frozen forehead is declined."
+      ],
+      "howItWorks": [
+        "Photographs at rest and in movement.",
+        "Marking.",
+        "Injection.",
+        "Written units.",
+        "Review at fourteen days."
+      ],
+      "visit": [
+        "No dental work in the past fortnight.",
+        "Tell us about previous toxin and the brand if you know it."
+      ],
+      "aftercare": [
+        "Stay upright for four hours.",
+        "No gym that evening.",
+        "Do not massage the sites."
+      ]
+    },
+    {
+      "imageAlt": "Hydra dermabrasion at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Hydra dermabrasion for?",
+          "a": "Congested chins and dull skin before an event."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "hydra-dermabrasion",
+      "name": "Hydra dermabrasion",
+      "category": "skin",
+      "categoryLabel": "Skin",
+      "summary": "A water-based polish and suction for congested skin, milder than crystal dermabrasion.",
+      "duration": "50 minutes",
+      "downtime": "Pink for a few hours.",
+      "idealFor": "Congested chins and dull skin before an event.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "Hydra dermabrasion uses fluid and suction rather than a dry abrasive. It clears ready congestion and leaves the skin hydrated.",
+        "It is the wrong week for it if you are sunburnt, peeling from retinoid, or in the middle of a pigment flare."
+      ],
+      "howItWorks": [
+        "Cleanse.",
+        "Serum pass with suction.",
+        "Extraction only where a pore is ready.",
+        "Calm and SPF."
+      ],
+      "visit": [
+        "No new acid the night before.",
+        "Tell us about rosacea."
+      ],
+      "aftercare": [
+        "Leave the skin alone that night.",
+        "Book it the day before an event, not the morning of one."
+      ]
+    },
+    {
+      "imageAlt": "Clinic diet plan at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Clinic diet plan for?",
+          "a": "Patients whose acne, hair shedding, or weight is part of the same consultation."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "diet",
+      "name": "Clinic diet plan",
+      "category": "body",
+      "categoryLabel": "Body",
+      "summary": "A written food plan tied to a skin or hair goal, not a juice detox.",
+      "duration": "40 minutes",
+      "downtime": "None.",
+      "idealFor": "Patients whose acne, hair shedding, or weight is part of the same consultation.",
+      "image": "/media/botanicals.jpg",
+      "overview": [
+        "The plan is food you can cook in Lahore, with portions and a review. It is not a list of superfoods and it is not a substitute for medical treatment of thyroid or anaemia.",
+        "If blood tests are needed, they are named. We do not sell a powder as the plan."
+      ],
+      "howItWorks": [
+        "Weight, history, and the skin or hair goal.",
+        "A one-page plan.",
+        "Two-week check.",
+        "Adjust.",
+        "Stop if it is not being followed. A new PDF will not help."
+      ],
+      "visit": [
+        "Bring a normal day's food, honestly.",
+        "List supplements you already take."
+      ],
+      "aftercare": [
+        "Follow it for fourteen days before judging it."
+      ]
+    },
+    {
+      "imageAlt": "Restorative sessions at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Restorative sessions for?",
+          "a": "Patients in a longer treatment course who have asked for guided movement."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "yoga",
+      "name": "Restorative sessions",
+      "category": "body",
+      "categoryLabel": "Body",
+      "summary": "Slow sessions booked alongside a skin or hair plan, for patients who want movement without a gym.",
+      "duration": "45 minutes",
+      "downtime": "None.",
+      "idealFor": "Patients in a longer treatment course who have asked for guided movement.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "These are gentle sessions in the clinic timetable, not a yoga studio membership. They sit beside a medical plan. They do not treat melasma or grow hair.",
+        "If you have a fresh procedure, the session waits until the aftercare allows it."
+      ],
+      "howItWorks": [
+        "Screening for the procedure you just had.",
+        "A short sequence.",
+        "Breathing.",
+        "A note in the same record as the treatment.",
+        "Rebook only if you want it."
+      ],
+      "visit": [
+        "Wear clothes you can sit on the floor in.",
+        "Tell us about back pain and pregnancy."
+      ],
+      "aftercare": [
+        "Water. No heroic stretching the week of a peel or a transplant."
+      ]
+    },
+    {
+      "imageAlt": "Glutathione injections at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Glutathione injections for?",
+          "a": "Patients who have already had a pigment consultation and still ask for glutathione."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "glutathione-injections",
+      "name": "Glutathione injections",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "A supervised course discussed for antioxidant support. It is not sold as a skin-bleach promise.",
+      "duration": "20 minutes",
+      "downtime": "A needle mark.",
+      "idealFor": "Patients who have already had a pigment consultation and still ask for glutathione.",
+      "image": "/media/botanicals.jpg",
+      "overview": [
+        "The injection is offered only after a skin consultation. It does not replace sunscreen or a topical pigment plan, and it is not described as a way to change your natural colour.",
+        "The product, dose, and number of sessions are written down. If your request is only to be lighter, we say what the medicine cannot do before any needle."
+      ],
+      "howItWorks": [
+        "Pigment and health check.",
+        "Written dose.",
+        "Injection.",
+        "A course length agreed in advance.",
+        "Stop if there is no reason to continue."
+      ],
+      "visit": [
+        "Tell us about asthma and sulphur drug reactions.",
+        "Eat beforehand."
+      ],
+      "aftercare": [
+        "Pressure on the site for a minute.",
+        "No extra unmarked drips from somewhere else in the same week."
+      ]
+    },
+    {
+      "imageAlt": "Glutathione infusion at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Glutathione infusion for?",
+          "a": "Patients who have been assessed and have chosen an infusion over a tablet."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "glutathione-iv",
+      "name": "Glutathione infusion",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "An intravenous glutathione sitting with a named dose, a time limit, and no promise of a new complexion.",
+      "duration": "45–60 minutes",
+      "downtime": "You can leave after observation.",
+      "idealFor": "Patients who have been assessed and have chosen an infusion over a tablet.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "The infusion is a medical sitting. You are observed. The line is not a spa treatment and it is not booked from a colour chart.",
+        "We record the batch and the dose. A lighter face is not the outcome we write on the consent."
+      ],
+      "howItWorks": [
+        "Consultation and consent.",
+        "Cannula.",
+        "Infusion at a set rate.",
+        "Observation.",
+        "A decision on whether a second sitting is even relevant."
+      ],
+      "visit": [
+        "Eat. Bring a list of medicines.",
+        "Do not come dehydrated from a fast you invented."
+      ],
+      "aftercare": [
+        "Rest if you feel light-headed.",
+        "Call if you have a rash or chest tightness."
+      ]
+    },
+    {
+      "imageAlt": "Oral glutathione at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Oral glutathione for?",
+          "a": "Patients who want an oral antioxidant beside a real skin plan."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "glutathione-oral",
+      "name": "Oral glutathione",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "Tablets, when they are appropriate, with the dose and the stop date on the same piece of paper.",
+      "duration": "Included in a consultation",
+      "downtime": "None.",
+      "idealFor": "Patients who want an oral antioxidant beside a real skin plan.",
+      "image": "/media/botanicals.jpg",
+      "overview": [
+        "Oral glutathione is the lowest-intensity option. It is not a shortcut around pigment disease.",
+        "You get a brand, a dose, and a review. Buying three extra bottles is not the plan."
+      ],
+      "howItWorks": [
+        "Consultation.",
+        "A yes or a no.",
+        "Dispensing or a prescription note.",
+        "Review.",
+        "Stop."
+      ],
+      "visit": [
+        "Bring what you have already ordered online."
+      ],
+      "aftercare": [
+        "Take it as written.",
+        "Keep the sunscreen. The tablet does not replace it."
+      ]
+    },
+    {
+      "imageAlt": "Nail extensions at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Nail extensions for?",
+          "a": "A planned shape on nails that are not infected."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "nails",
+      "name": "Nail extensions",
+      "category": "salon",
+      "categoryLabel": "Salon",
+      "summary": "Extensions and care for healthy nails. Infected or lifting nails are treated, not decorated.",
+      "duration": "75–90 minutes",
+      "downtime": "None if the nail is healthy.",
+      "idealFor": "A planned shape on nails that are not infected.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "Extensions are a salon service in the same building as the clinic. If the nail is green, painful, or separating, the appointment becomes a skin visit instead.",
+        "Shapes are agreed before the tip is applied. We do not file the natural nail down to nothing."
+      ],
+      "howItWorks": [
+        "Nail check.",
+        "Shape agreement.",
+        "Application.",
+        "Finish.",
+        "A fill date, not an open-ended set."
+      ],
+      "visit": [
+        "Remove loose jewellery.",
+        "Tell us about acrylic allergies."
+      ],
+      "aftercare": [
+        "Gloves for long wet work.",
+        "Come back for a fill before the nail lifts."
+      ]
+    },
+    {
+      "imageAlt": "Eyelash extensions at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Eyelash extensions for?",
+          "a": "A fuller lash for an event, on eyes that are not inflamed."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "lash-extensions",
+      "name": "Eyelash extensions",
+      "category": "salon",
+      "categoryLabel": "Salon",
+      "summary": "Individual lash extensions, weighed against the health of your own lashes.",
+      "duration": "90 minutes",
+      "downtime": "None. No water or steam for 24 hours.",
+      "idealFor": "A fuller lash for an event, on eyes that are not inflamed.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "Extensions are glued to your own lashes. If those lashes are already sparse from overuse, we refuse a full set and talk about a break.",
+        "The map is length that you can blink through. Extreme length is how people get irritated lids."
+      ],
+      "howItWorks": [
+        "Lid and lash check.",
+        "Patches and isolation.",
+        "Placement.",
+        "A look in the mirror before the last rows.",
+        "Aftercare card."
+      ],
+      "visit": [
+        "Come without mascara.",
+        "Tell us about lash allergies and recent eye infection."
+      ],
+      "aftercare": [
+        "No steam, no rubbing.",
+        "A refill, not a second full set on a sore lid."
+      ]
+    },
+    {
+      "imageAlt": "Facial treatments at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Facial treatments for?",
+          "a": "Maintenance between medical visits."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "facial-treatments",
+      "name": "Facial treatments",
+      "category": "salon",
+      "categoryLabel": "Salon",
+      "summary": "A menu of calm, brightening, and deep-clean facials chosen after the skin is looked at, not from a package name.",
+      "duration": "50–70 minutes",
+      "downtime": "Usually none.",
+      "idealFor": "Maintenance between medical visits.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "The facial is chosen in the chair. Oily, reactive, and pigmented skin do not get the same protocol.",
+        "It does not replace the acne clinic or the melasma clinic. If the skin is diseased, the facial is cancelled and the medical visit is booked."
+      ],
+      "howItWorks": [
+        "Skin read.",
+        "Cleanse.",
+        "The chosen active.",
+        "Massage within reason.",
+        "SPF."
+      ],
+      "visit": [
+        "Say if you have a peel or toxin booked the same week."
+      ],
+      "aftercare": [
+        "No new retinol that night."
+      ]
+    },
+    {
+      "imageAlt": "Spa services at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Spa services for?",
+          "a": "A planned pause. Not the week of a procedure."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "spa",
+      "name": "Spa services",
+      "category": "salon",
+      "categoryLabel": "Salon",
+      "summary": "Body and face rituals for rest. They are booked as rest, not as medical treatment.",
+      "duration": "60–90 minutes",
+      "downtime": "None.",
+      "idealFor": "A planned pause. Not the week of a procedure.",
+      "image": "/media/treatment-room.jpg",
+      "overview": [
+        "Spa time is oil, heat, and quiet. Heat is wrong on a fresh peel, a fresh filler, and active melasma, so the diary checks your other appointments first.",
+        "The service is described as relaxation. It is not a detox and it does not tighten skin."
+      ],
+      "howItWorks": [
+        "Check against the medical diary.",
+        "The ritual you booked.",
+        "Water.",
+        "No upsell in the room."
+      ],
+      "visit": [
+        "Arrive ten minutes early.",
+        "Say if you are pregnant."
+      ],
+      "aftercare": [
+        "Drink water. Skip the gym if you are flushed."
+      ]
+    },
+    {
+      "imageAlt": "Makeup and hair at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Makeup and hair for?",
+          "a": "Weddings and sittings. A trial is part of a bridal booking."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "makeup",
+      "name": "Makeup and hair",
+      "category": "salon",
+      "categoryLabel": "Salon",
+      "summary": "Event makeup and hair, tried before the day if the event matters.",
+      "duration": "60–90 minutes",
+      "downtime": "None.",
+      "idealFor": "Weddings and sittings. A trial is part of a bridal booking.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "Makeup is a separate booking from procedures. We will not paint over a peel, a fresh brow tattoo, or a swollen lip.",
+        "Bridal work includes a trial. The day itself should not be the experiment."
+      ],
+      "howItWorks": [
+        "Reference photographs, then a reduction of what will not suit the light.",
+        "Trial.",
+        "Adjustments written down.",
+        "Event day.",
+        "Removal advice."
+      ],
+      "visit": [
+        "Bring the clothes colour.",
+        "Come with clean skin to the trial."
+      ],
+      "aftercare": [
+        "Remove makeup the same night.",
+        "Do not sleep in it because the photographs were good."
+      ]
+    },
+    {
+      "imageAlt": "Hair treatments at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Hair treatments for?",
+          "a": "Dry lengths and style appointments. Damage from relaxers is assessed before more chemical work."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "hair-treatments",
+      "name": "Hair treatments",
+      "category": "salon",
+      "categoryLabel": "Salon",
+      "summary": "Salon care for the hair you have: masks, smoothing consults, and scalp comfort that is not a transplant.",
+      "duration": "45–120 minutes",
+      "downtime": "Depends on the chemical service.",
+      "idealFor": "Dry lengths and style appointments. Damage from relaxers is assessed before more chemical work.",
+      "image": "/media/hairline-detail.jpg",
+      "overview": [
+        "This is the salon side of hair. It conditions and styles. It does not regrow a hairline.",
+        "Chemical smoothing is declined if the hair is already breaking. A mask is not a repair for a scalp disease."
+      ],
+      "howItWorks": [
+        "Strand and scalp check.",
+        "The service or a refusal.",
+        "Application.",
+        "Finish.",
+        "A home interval before the next chemical."
+      ],
+      "visit": [
+        "Tell us the date of the last dye or relaxer."
+      ],
+      "aftercare": [
+        "Use the wash interval we write.",
+        "No second chemical from another salon in the same month."
+      ]
+    },
+    {
+      "imageAlt": "Training institute at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Training institute for?",
+          "a": "People who want to train. Not a shortcut to performing surgery."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "training",
+      "name": "Training institute",
+      "category": "salon",
+      "categoryLabel": "Salon",
+      "summary": "Taught courses for brow work, facials, and assist roles, with a limit on what a certificate allows you to do.",
+      "duration": "Course lengths vary",
+      "downtime": "None.",
+      "idealFor": "People who want to train. Not a shortcut to performing surgery.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "Training is taught in the clinic, on the work the clinic actually does. A certificate for brows is not a licence to transplant hair or to inject filler.",
+        "Class size is small. You see the consent, the hygiene, and the refusals, not only the pretty result."
+      ],
+      "howItWorks": [
+        "An interview.",
+        "A written syllabus.",
+        "Supervised practice.",
+        "An assessment.",
+        "A certificate that names what you were taught."
+      ],
+      "visit": [
+        "Ask which procedures are included before you pay.",
+        "Medical services stay with the clinical staff."
+      ],
+      "aftercare": [
+        "Keep the syllabus.",
+        "Do not advertise a skill the certificate does not name."
+      ]
+    },
+    {
+      "imageAlt": "Ombre powder brows at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Ombre powder brows for?",
+          "a": "People who want a filled look rather than hair strokes."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "ombre-brows",
+      "name": "Ombre powder brows",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "A soft powdered brow with a lighter head and a deeper tail, mapped before pigment is opened.",
+      "duration": "2 hours, plus a perfecting visit",
+      "downtime": "Darker for a week, then it softens.",
+      "idealFor": "People who want a filled look rather than hair strokes.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "Powder brows are a gradient, not a block. The head of the brow stays sheerer than the tail so the face is not striped.",
+        "Oily skin fades powder faster. That is said at the drawing, not at month four."
+      ],
+      "howItWorks": [
+        "Measure and draw.",
+        "Your approval.",
+        "Pigment in passes.",
+        "Heal.",
+        "Perfect at six weeks."
+      ],
+      "visit": [
+        "No brow tint for two weeks.",
+        "No retinoid on the brow for a week."
+      ],
+      "aftercare": [
+        "Keep the brow dry.",
+        "SPF once healed."
+      ]
+    },
+    {
+      "imageAlt": "Combo brows at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Combo brows for?",
+          "a": "Sparse heads with a desire for a fuller body."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "combo-brows",
+      "name": "Combo brows",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "Strokes at the head of the brow and powder through the tail, for people who want both textures.",
+      "duration": "2 to 2.5 hours",
+      "downtime": "Dark and crisp for a week.",
+      "idealFor": "Sparse heads with a desire for a fuller body.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "Combo brows fail when the strokes and the powder are the same colour and the same weight. The head stays fine. The body carries the colour.",
+        "You approve one drawing. We do not freehand a second shape after numbing."
+      ],
+      "howItWorks": [
+        "Drawing.",
+        "Stroke pass.",
+        "Powder pass.",
+        "Colour check in daylight.",
+        "Perfecting visit."
+      ],
+      "visit": [
+        "Come with the brows grown out.",
+        "Tell us about previous pigment."
+      ],
+      "aftercare": [
+        "No brow makeup until the perfecting visit.",
+        "Do not pick flakes."
+      ]
+    },
+    {
+      "imageAlt": "Brow lamination at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Brow lamination for?",
+          "a": "Downward or unruly brows with enough hair to laminate."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "brow-lamination",
+      "name": "Brow lamination",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "A set that lifts your own brow hairs. It does not add hairs you do not have.",
+      "duration": "45 minutes",
+      "downtime": "None. Keep the brows dry for 24 hours.",
+      "idealFor": "Downward or unruly brows with enough hair to laminate.",
+      "image": "/media/consult-desk.jpg",
+      "overview": [
+        "Lamination is a chemical set, like a lash lift for the brow. If the brow is mostly skin, this is the wrong service and pigment is the conversation.",
+        "The lift is agreed in a mirror. Over-straight brows are a choice we will talk you out of if they fight your face."
+      ],
+      "howItWorks": [
+        "Hair check.",
+        "Lift.",
+        "Set.",
+        "Nourish.",
+        "A tint only if you asked for it."
+      ],
+      "visit": [
+        "Do not tint the brows yourself the same week."
+      ],
+      "aftercare": [
+        "No water for a day.",
+        "Brush them into the shape while they settle."
+      ]
+    },
+    {
+      "imageAlt": "Cheek blush at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Cheek blush for?",
+          "a": "People who want a soft, placed warmth on the cheek."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "cheek-blush",
+      "name": "Cheek blush",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "A sheer pigment on the cheek that behaves like a stain. It fades. It is not a new skin colour.",
+      "duration": "90 minutes",
+      "downtime": "Pink for two days. Colour settles over a month.",
+      "idealFor": "People who want a soft, placed warmth on the cheek.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "Cheek pigment sits where a cream blush would sit, sheerer than you expect on day one because fresh pigment always looks stronger.",
+        "It is not performed over active acne in the blush zone or over melasma we are trying to calm."
+      ],
+      "howItWorks": [
+        "Place the colour with a pencil.",
+        "Approval.",
+        "Sheer passes.",
+        "Heal.",
+        "A perfecting visit if the fade is uneven."
+      ],
+      "visit": [
+        "No acids for five days.",
+        "Come without makeup."
+      ],
+      "aftercare": [
+        "No scrubbing.",
+        "SPF.",
+        "Expect it to soften."
+      ]
+    },
+    {
+      "imageAlt": "Lash lift and tint at GS Aesthetic",
+      "faqs": [
+        {
+          "q": "Who is Lash lift and tint for?",
+          "a": "Straight lashes that disappear when you look ahead."
+        },
+        {
+          "q": "How do I book?",
+          "a": "Message the clinic on WhatsApp with a daylight photo of the area and the name of this treatment. The first visit is a consultation, not a procedure dropped into the same hour unless the diary allows it."
+        }
+      ],
+      "slug": "lash-lift",
+      "name": "Lash lift and tint",
+      "category": "colour",
+      "categoryLabel": "Colour",
+      "summary": "A lift and tint of your own lashes. No extensions, no glue on a stranger's hair.",
+      "duration": "60 minutes",
+      "downtime": "No water or steam for 24 hours.",
+      "idealFor": "Straight lashes that disappear when you look ahead.",
+      "image": "/media/skin-detail.jpg",
+      "overview": [
+        "The lift curls the lash you grew. The tint darkens it. If the lashes are very short, the result is a tidier eye, not a false-lash photograph.",
+        "Irritated eyes and recent infections wait."
+      ],
+      "howItWorks": [
+        "Shields sized to the curl you want.",
+        "Lift.",
+        "Set.",
+        "Tint.",
+        "A look sitting up, not lying down."
+      ],
+      "visit": [
+        "Come without mascara and contact lenses if you can."
+      ],
+      "aftercare": [
+        "Dry for a day.",
+        "No oil cleanser on the lash for 48 hours."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "room",
+      "title": "The room",
+      "caption": "Treatment room in daylight. Linen, stone, no coloured gels.",
+      "image": "/media/treatment-room.jpg",
+      "imageAlt": "Treatment room with a cream bed and sage towels"
+    },
+    {
+      "id": "desk",
+      "title": "The drawing table",
+      "caption": "Hairlines are drawn on paper before they are drawn on skin.",
+      "image": "/media/consult-desk.jpg",
+      "imageAlt": "Consultation desk with paper and brass tools"
+    },
+    {
+      "id": "edge",
+      "title": "The edge",
+      "caption": "Irregular singles. This is the centimetre the method is about.",
+      "image": "/media/hairline-detail.jpg",
+      "imageAlt": "Natural hairline edge in daylight"
+    },
+    {
+      "id": "skin",
+      "title": "Skin, unfiltered",
+      "caption": "Texture is the brief. Colour is not.",
+      "image": "/media/skin-detail.jpg",
+      "imageAlt": "Close photograph of skin texture"
+    },
+    {
+      "id": "plants",
+      "title": "What we actually use",
+      "caption": "Oils and leaves where they help the barrier. Not as a costume.",
+      "image": "/media/botanicals.jpg",
+      "imageAlt": "Olive leaves and a dropper bottle"
+    },
+    {
+      "id": "street",
+      "title": "24-P",
+      "caption": "The Gulberg front. Ring the bell. Sundays are booked, not open.",
+      "image": "/media/facade.jpg",
+      "imageAlt": "Stone clinic frontage with an olive tree"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "He made me stand up and look in the mirror before he would talk about grafts. The line he drew was higher than the one I brought on my phone. A year on, I am glad he refused the lower one.",
+      "name": "A. R.",
+      "detail": "FUE hairline, Gulberg"
+    },
+    {
+      "quote": "No one offered me a drip. They took the whitening cream off my list, wrote a pigment plan, and the patches are quieter. Not gone. Quieter.",
+      "name": "S. Khan",
+      "detail": "Pigment clinic"
+    },
+    {
+      "quote": "The brow drawing took forty minutes. The strokes took less. They still look like hairs, and I trim them, which they warned me I would.",
+      "name": "M. F.",
+      "detail": "Brows"
+    }
+  ],
+  "visit": {
+    "title": "Come for the drawing. Book the work after.",
+    "lede": "Consultations are in the room at 24-P, Block P, Gulberg 2. Monday to Saturday, nine to six. Message on WhatsApp with the area you want looked at and a clear photograph in daylight."
+  },
+  "blogs": [
+    {
+      "slug": "what-a-hairline-consult-includes",
+      "title": "What happens in a hairline consultation",
+      "date": "12 March 2026",
+      "excerpt": "The drawing, the donor, and the number. In that order.",
+      "body": [
+        "A consultation at GS Aesthetic starts with you upright, in daylight, in a mirror. The hairline is drawn before anyone says a graft count.",
+        "The donor is photographed. If the fringe cannot support the drawing, the drawing changes or the surgery waits. A package that starts from a number is how people end up with a line that is too low.",
+        "You can leave with the drawing and book later. The consult is the work, not a formality before a sale."
+      ]
+    },
+    {
+      "slug": "shedding-after-a-transplant",
+      "title": "Why transplanted hair sheds",
+      "date": "2 April 2026",
+      "excerpt": "Week three looks like failure. It is the follicle resetting.",
+      "body": [
+        "The hairs placed on the day of surgery are strands. The follicle under them goes quiet and the strand falls. That is expected between week two and week six.",
+        "New growth is discussed around month four and judged at month twelve. Sending a worried photograph at week three is welcome. Starting a second surgery then is not.",
+        "Day ten is for crusts and direction. Twelve months is for the result."
+      ]
+    },
+    {
+      "slug": "melasma-and-the-sun-in-lahore",
+      "title": "Melasma, and why the peel can wait",
+      "date": "18 April 2026",
+      "excerpt": "Pigment plans start with the hour you spend outside.",
+      "body": [
+        "Melasma darkens with light and with heat. A peel on a face that has no sunscreen habit is how patches get worse.",
+        "The first prescription is often a stop: stop the steroid whitening cream, stop the steam facial, start a real SPF.",
+        "Procedures come after the photographs show the skin can tolerate them."
+      ]
+    },
+    {
+      "slug": "brows-strokes-or-powder",
+      "title": "Strokes, powder, or both",
+      "date": "9 May 2026",
+      "excerpt": "Three brow services, and who each one suits.",
+      "body": [
+        "Microblading draws hairs. It suits skin that is not very oily and a person who wants the brow to look like hair up close.",
+        "Powder is a soft fill, stronger in photographs, faster to fade on oily skin. Combo puts strokes at the head and powder through the body.",
+        "All three need a drawing you approve sitting up, and all three need a perfecting visit. The day you leave is not the colour you keep."
+      ]
+    }
+  ],
+  "legal": [
+    {
+      "slug": "privacy",
+      "title": "Privacy policy",
+      "updated": "18 November 2026",
+      "sections": [
+        {
+          "heading": "Who we are",
+          "body": "GS Aesthetic runs the clinic site at gsaesthetic.online from 24-P, Block P, Gulberg 2, Lahore. Questions about this policy go to hello@gsaesthetic.online."
+        },
+        {
+          "heading": "What we collect",
+          "body": "If you message us on WhatsApp, call, or email, we receive the name, number, and the concern you send, including any photograph you choose to attach. The site itself does not run a public account system. The studio desk keeps an admin session cookie on the editor’s browser only."
+        },
+        {
+          "heading": "Why we use it",
+          "body": "We use those details to answer you, book a visit, and keep a clinical record if you become a patient. We do not sell lists of enquiries. We do not use them for unrelated advertising."
+        },
+        {
+          "heading": "How long we keep it",
+          "body": "Enquiry messages are kept while the booking is open and for a short period after, unless a consultation becomes part of a clinical record. Clinical records are kept for the period required for medical notes in Pakistan."
+        },
+        {
+          "heading": "Sharing",
+          "body": "WhatsApp is operated by Meta. If you write to us there, that message is also handled under WhatsApp’s own terms. We do not pass your photographs to other clinics. A laboratory or a referred doctor receives only what the referral needs, and only with your knowledge."
+        },
+        {
+          "heading": "Your requests",
+          "body": "You can ask what we hold about an enquiry, ask for a correction, or ask us to delete an enquiry that never became a clinical record. Write to hello@gsaesthetic.online. Clinical notes may have to be retained even if you would prefer them deleted."
+        }
+      ]
+    },
+    {
+      "slug": "terms",
+      "title": "Terms of use",
+      "updated": "18 November 2026",
+      "sections": [
+        {
+          "heading": "The site",
+          "body": "gsaesthetic.online describes the services of GS Aesthetic. It is information, not a diagnosis and not a confirmed booking. A treatment happens only after a consultation in the clinic and your agreement to that plan."
+        },
+        {
+          "heading": "Bookings",
+          "body": "A WhatsApp message asks for a time. It does not hold a time until the clinic confirms it. Please arrive as agreed or tell us if you cannot. Repeated missed visits may be refused a further booking."
+        },
+        {
+          "heading": "Photographs and copy",
+          "body": "Text, the logo, and photographs on this site belong to the clinic unless a caption says otherwise. Do not copy the logo or present our pages as your own clinic."
+        },
+        {
+          "heading": "Prices",
+          "body": "Any fee discussed in a message is an estimate until it is written at the consultation. Packages are not sold from the website."
+        },
+        {
+          "heading": "Liability",
+          "body": "We take care with what we publish. We are not liable for decisions you make from the website alone, or for a third-party service such as WhatsApp, Instagram, or a map link being unavailable."
+        }
+      ]
+    },
+    {
+      "slug": "medical",
+      "title": "Medical disclaimer",
+      "updated": "18 November 2026",
+      "sections": [
+        {
+          "heading": "Not a diagnosis",
+          "body": "Pages about hair, skin, injections, and salon work describe what the clinic offers. They do not diagnose you. Results vary. A photograph on this site is of the studio or a teaching detail, not a promise that your result will match it."
+        },
+        {
+          "heading": "Individual plans",
+          "body": "Graft numbers, doses, peels, and courses are decided in the room after an examination. If a treatment is wrong for you, the clinic will say so. That refusal is part of the care."
+        },
+        {
+          "heading": "Emergencies",
+          "body": "This website and WhatsApp are not an emergency service. If you have chest pain, trouble breathing, a rapidly spreading rash, or bleeding you cannot control, seek urgent medical care."
+        },
+        {
+          "heading": "After a procedure",
+          "body": "Follow the written aftercare you were given. If skin blanches, mottles, or hurts in a new way after an injection, contact the clinic at once and, if you cannot reach us, go to an emergency department."
+        }
+      ]
+    },
+    {
+      "slug": "cookies",
+      "title": "Cookie notice",
+      "updated": "18 November 2026",
+      "sections": [
+        {
+          "heading": "What a cookie is",
+          "body": "A cookie is a small file stored by your browser. This public site does not set advertising or analytics cookies."
+        },
+        {
+          "heading": "The only cookie we set",
+          "body": "If a member of staff signs into the studio desk, the browser stores an httpOnly session cookie named hmd_admin. It expires after seven days or when they sign out. Visitors who only read the site do not receive it."
+        },
+        {
+          "heading": "Third parties",
+          "body": "If you leave for WhatsApp, Instagram, Facebook, YouTube, or Google Maps, those sites set their own cookies under their own policies. We do not control them."
+        }
+      ]
+    }
+  ]
+}
